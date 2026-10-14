@@ -108,7 +108,7 @@
     "category": "five",
     "image": "/assets/navy.jpg",
     "description": "A versatile navy blazer styled for different occasions. Shopping links are being added as products are verified.",
-    "published": true
+    "published": false
   },
   {
     "title": "One Chocolate Sweater, Five Looks",
@@ -116,7 +116,7 @@
     "category": "five",
     "image": "/assets/sweater.jpg",
     "description": "Five ideas for a chocolate sweater. Original UNIQLO product link will be added when verified.",
-    "published": true
+    "published": false
   },
   {
     "title": "Three Colors That Make Grey Look Expensive",
@@ -124,6 +124,6 @@
     "category": "color",
     "image": "/assets/grey.jpg",
     "description": "Color inspiration; verified shopping links coming soon.",
-    "published": true
+    "published": false
   }
 ]
