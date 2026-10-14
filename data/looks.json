@@ -22,27 +22,27 @@
         "image": "/assets/blue-look-1.jpg",
         "products": [
           {
-            "name": "H&M Navy Wide-Leg Pants",
-            "note": "Shop similar · H&M · Non-affiliate",
+            "name": "Navy trousers · H&M",
+            "note": "Shop similar",
             "image": "/assets/hm-navy-blue-wide-leg-pants.avif",
             "url": "https://www2.hm.com/en_us/productpage.1318831007.html",
             "affiliate": false
           },
           {
-            "name": "Navy wide-leg tailored trousers",
-            "note": "Shop similar · Navy",
+            "name": "Navy trousers",
+            "note": "Shop similar",
             "url": "https://amzn.to/3TSDzC0",
             "affiliate": true
           },
           {
-            "name": "Brown leather belt with gold buckle",
-            "note": "Shop similar · Brown leather, gold-tone buckle",
+            "name": "Brown belt",
+            "note": "Shop similar",
             "url": "https://amzn.to/4ezVGDF",
             "affiliate": true
           },
           {
-            "name": "Chocolate brown shoulder bag",
-            "note": "Shop similar · Check the brown color option on Amazon",
+            "name": "Chocolate brown bag",
+            "note": "Shop similar",
             "url": "https://amzn.to/3TTf0F1",
             "affiliate": true
           }
@@ -54,14 +54,14 @@
         "image": "/assets/elegant-closet-loafer-look.png",
         "products": [
           {
-            "name": "Brown leather loafers",
-            "note": "Featured · Brown loafers with gold-tone detail",
+            "name": "Brown loafers",
+            "note": "Shop similar",
             "url": "https://amzn.to/47fODw3",
             "affiliate": true
           },
           {
-            "name": "Jeans",
-            "note": " Shop Similar · Non-affiliate",
+            "name": "Straight-leg jeans",
+            "note": "Shop similar",
             "url": "https://www.gapfactory.com/browse/product.do?pid=524542001&vid=1&utm_source=chatgpt.com&utm_medium=feed&oppcref=8180a905-f689-4085-b953-315c9824f9cf#pdp-page-content",
             "affiliate": false
           }
