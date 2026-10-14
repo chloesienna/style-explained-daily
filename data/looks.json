@@ -22,7 +22,7 @@
         "image": "/assets/blue-look-1.jpg",
         "products": [
           {
-            "name": "Navy trousers · H&M",
+            "name": "Navy trousers",
             "note": "Shop similar",
             "image": "/assets/hm-navy-blue-wide-leg-pants.avif",
             "url": "https://www2.hm.com/en_us/productpage.1318831007.html",
@@ -31,6 +31,7 @@
           {
             "name": "Navy trousers",
             "note": "Shop similar",
+            "image": "/assets/navy-wide-leg-tailored-trousers.png",
             "url": "https://amzn.to/3TSDzC0",
             "affiliate": true
           },
@@ -58,6 +59,7 @@
           {
             "name": "Brown loafers",
             "note": "Shop similar",
+            "image": "/assets/classic-brown-leather-horsebit-loafers.png",
             "url": "https://amzn.to/47fODw3",
             "affiliate": true
           },
