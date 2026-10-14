@@ -1,0 +1,97 @@
+media:
+  input: assets
+  output: /assets
+  rename: safe
+content:
+  - name: looks
+    label: Shop the Looks
+    type: file
+    path: data/looks.json
+    format: json
+    list: true
+    fields:
+      - name: title
+        label: Look title
+        type: string
+        required: true
+      - name: subtitle
+        label: Short description on homepage
+        type: text
+      - name: category
+        label: Category
+        type: select
+        options:
+          values:
+            - value: five
+              label: Five Looks
+            - value: color
+              label: Color Guides
+            - value: tips
+              label: Styling Tips
+      - name: image
+        label: Main image
+        type: image
+      - name: description
+        label: Look description
+        type: text
+      - name: published
+        label: Show on website
+        type: boolean
+      - name: products
+        label: Featured shopping links
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{name}"
+        fields:
+          - name: name
+            label: Product name
+            type: string
+          - name: note
+            label: Product details / exact or similar
+            type: string
+          - name: image
+            label: Product image (only if licensed)
+            type: image
+          - name: url
+            label: Shopping URL
+            type: string
+          - name: affiliate
+            label: Affiliate link (advertising)
+            type: boolean
+      - name: outfits
+        label: Outfits in this edit
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{name}"
+        fields:
+          - name: name
+            label: Outfit title
+            type: string
+          - name: description
+            label: Outfit styling notes
+            type: text
+          - name: image
+            label: Outfit image
+            type: image
+          - name: products
+            label: Products for this outfit
+            type: object
+            list:
+              collapsible:
+                collapsed: true
+                summary: "{name}"
+            fields:
+              - name: name
+                type: string
+              - name: note
+                type: string
+              - name: image
+                type: image
+              - name: url
+                type: string
+              - name: affiliate
+                type: boolean
