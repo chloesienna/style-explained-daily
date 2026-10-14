@@ -82,6 +82,11 @@
             "image": "/assets/ivory-pebbled-leather-handbag.png",
             "url": "https://www.macys.com/shop/product/victoria-handbag-with-gold-hardware-victoria-hyde?ID=19142265&swatchColor=White#BRAND,COLOR_NORMAL/Victoria%20Hyde%20London,White",
             "affiliate": false
+          },
+          {
+            "name": "White trousers",
+            "image": "/assets/hm-wide-leg-pants.avif",
+            "affiliate": false
           }
         ]
       },
