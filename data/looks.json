@@ -13,13 +13,6 @@
         "image": "/assets/shirt.jpg",
         "url": "https://amzn.to/4yksY0I",
         "affiliate": true
-      },
-      {
-        "name": "H&M Navy Wide-Leg Pants",
-        "note": "Shop similar · H&M · Non-affiliate",
-        "image": "/assets/hm-navy-blue-wide-leg-pants.avif",
-        "url": "https://www2.hm.com/en_us/productpage.1318831007.html",
-        "affiliate": false
       }
     ],
     "outfits": [
@@ -28,6 +21,13 @@
         "description": "Navy tailored trousers, brown belt and shoulder bag",
         "image": "/assets/blue-look-1.jpg",
         "products": [
+          {
+            "name": "H&M Navy Wide-Leg Pants",
+            "note": "Shop similar · H&M · Non-affiliate",
+            "image": "/assets/hm-navy-blue-wide-leg-pants.avif",
+            "url": "https://www2.hm.com/en_us/productpage.1318831007.html",
+            "affiliate": false
+          },
           {
             "name": "Navy wide-leg tailored trousers",
             "note": "Shop similar · Navy",
