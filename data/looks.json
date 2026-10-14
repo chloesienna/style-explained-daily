@@ -13,6 +13,13 @@
         "image": "/assets/shirt.jpg",
         "url": "https://amzn.to/4yksY0I",
         "affiliate": true
+      },
+      {
+        "name": "H&M Navy Wide-Leg Pants",
+        "note": "Shop similar · H&M · Non-affiliate",
+        "image": "/assets/hm-navy-blue-wide-leg-pants.avif",
+        "url": "https://www2.hm.com/en_us/productpage.1318831007.html",
+        "affiliate": false
       }
     ],
     "outfits": [
