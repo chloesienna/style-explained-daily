@@ -13,38 +13,40 @@
         "image": "/assets/shirt.jpg",
         "url": "https://amzn.to/4yksY0I",
         "affiliate": true
+      },
+      {
+        "name": "Wide Leg Pants",
+        "note": "Navy · Similar",
+        "image": "/assets/hm-navy-blue-wide-leg-pants.avif",
+        "url": "https://www2.hm.com/en_us/productpage.1318831007.html",
+        "affiliate": false
       }
     ],
     "outfits": [
       {
         "name": "Navy & chocolate",
         "description": "Navy tailored trousers, brown belt and shoulder bag",
-        "image": "/assets/blue-look-1.jpg",
-        "products": []
+        "image": "/assets/blue-look-1.jpg"
       },
       {
         "name": "Weekend denim",
         "description": "Straight-leg jeans, brown loafers and shoulder bag",
-        "image": "/assets/blue-look-2.jpg",
-        "products": []
+        "image": "/assets/blue-look-2.jpg"
       },
       {
         "name": "Navy & ivory",
         "description": "Navy blazer, ivory trousers and loafers",
-        "image": "/assets/blue-look-3.jpg",
-        "products": []
+        "image": "/assets/blue-look-3.jpg"
       },
       {
         "name": "Soft grey",
         "description": "Grey tailoring with a sweater over the shoulders",
-        "image": "/assets/blue-look-4.jpg",
-        "products": []
+        "image": "/assets/blue-look-4.jpg"
       },
       {
         "name": "Trench & burgundy",
         "description": "Camel trench, denim and burgundy accents",
-        "image": "/assets/blue-look-5.jpg",
-        "products": []
+        "image": "/assets/blue-look-5.jpg"
       }
     ]
   },
@@ -54,9 +56,7 @@
     "category": "five",
     "image": "/assets/navy.jpg",
     "description": "A versatile navy blazer styled for different occasions. Shopping links are being added as products are verified.",
-    "published": true,
-    "products": [],
-    "outfits": []
+    "published": true
   },
   {
     "title": "One Chocolate Sweater, Five Looks",
@@ -64,9 +64,7 @@
     "category": "five",
     "image": "/assets/sweater.jpg",
     "description": "Five ideas for a chocolate sweater. Original UNIQLO product link will be added when verified.",
-    "published": true,
-    "products": [],
-    "outfits": []
+    "published": true
   },
   {
     "title": "Three Colors That Make Grey Look Expensive",
@@ -74,8 +72,6 @@
     "category": "color",
     "image": "/assets/grey.jpg",
     "description": "Color inspiration; verified shopping links coming soon.",
-    "published": true,
-    "products": [],
-    "outfits": []
+    "published": true
   }
 ]
