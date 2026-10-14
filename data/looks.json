@@ -51,7 +51,15 @@
       {
         "name": "Weekend denim",
         "description": "Straight-leg jeans, brown loafers and shoulder bag",
-        "image": "/assets/blue-look-2.jpg"
+        "image": "/assets/blue-look-2.jpg",
+        "products": [
+          {
+            "name": "Brown leather loafers",
+            "note": "Shop similar · Brown loafers with gold-tone detail",
+            "url": "https://amzn.to/47fODw3",
+            "affiliate": true
+          }
+        ]
       },
       {
         "name": "Navy & ivory",
