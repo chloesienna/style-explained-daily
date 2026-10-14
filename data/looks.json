@@ -42,8 +42,9 @@
             "affiliate": true
           },
           {
-            "name": "Chocolate brown bag",
+            "name": "Brown bag",
             "note": "Shop similar",
+            "image": "/assets/burgundy-leather-crescent-shoulder-bag.png",
             "url": "https://amzn.to/3TTf0F1",
             "affiliate": true
           }
@@ -63,6 +64,7 @@
           {
             "name": "Straight-leg jeans",
             "note": "Shop similar",
+            "image": "/assets/classic-indigo-straight-leg-jeans.png",
             "url": "https://www.gapfactory.com/browse/product.do?pid=524542001&vid=1&utm_source=chatgpt.com&utm_medium=feed&oppcref=8180a905-f689-4085-b953-315c9824f9cf#pdp-page-content",
             "affiliate": false
           }
