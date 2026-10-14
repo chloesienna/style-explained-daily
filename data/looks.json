@@ -13,20 +13,33 @@
         "image": "/assets/shirt.jpg",
         "url": "https://amzn.to/4yksY0I",
         "affiliate": true
-      },
-      {
-        "name": "Wide Leg Pants",
-        "note": "Navy · Similar",
-        "image": "/assets/hm-navy-blue-wide-leg-pants.avif",
-        "url": "https://www2.hm.com/en_us/productpage.1318831007.html",
-        "affiliate": false
       }
     ],
     "outfits": [
       {
         "name": "Navy & chocolate",
         "description": "Navy tailored trousers, brown belt and shoulder bag",
-        "image": "/assets/blue-look-1.jpg"
+        "image": "/assets/blue-look-1.jpg",
+        "products": [
+          {
+            "name": "Navy wide-leg tailored trousers",
+            "note": "Shop similar · Navy",
+            "url": "https://amzn.to/3TSDzC0",
+            "affiliate": true
+          },
+          {
+            "name": "Brown leather belt with gold buckle",
+            "note": "Shop similar · Brown leather, gold-tone buckle",
+            "url": "https://amzn.to/4ezVGDF",
+            "affiliate": true
+          },
+          {
+            "name": "Chocolate brown shoulder bag",
+            "note": "Shop similar · Check the brown color option on Amazon",
+            "url": "https://amzn.to/3TTf0F1",
+            "affiliate": true
+          }
+        ]
       },
       {
         "name": "Weekend denim",
