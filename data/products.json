@@ -124,19 +124,19 @@
     "name": "Bag",
     "store": "Amazon",
     "image": "/assets/glossy-burgundy-leather-handbag.png",
-    "url": "https://amzn.to/4s856Mk",
+    "url": "https://amzn.to/4hYoyqa",
     "affiliate": true,
-    "status": "needs-review",
+    "status": "verified",
     "note": "Affiliate link"
   },
   {
     "id": "product-014",
     "name": "Shoes",
     "store": "Amazon",
-    "image": "/assets/glossy-burgundy-slingback-pumps.png",
-    "url": "https://amzn.to/3WssCYs",
+    "image": "/assets/glossy-burgundy-slingback-heels.png",
+    "url": "https://amzn.to/3TKeNnA",
     "affiliate": true,
-    "status": "needs-review"
+    "status": "verified"
   },
   {
     "id": "product-015",
