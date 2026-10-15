@@ -75,14 +75,14 @@
             "note": "Shop similar",
             "image": "/assets/chestnut-leather-belt-with-brass-buckle-1.png",
             "url": "https://amzn.to/4ezVGDF",
-            "affiliate": false
+            "affiliate": true
           },
           {
             "name": "Brown bag",
             "note": "Shop similar",
             "image": "/assets/brown-crescent-leather-shoulder-bag.png",
             "url": "https://amzn.to/47SyP2r",
-            "affiliate": false
+            "affiliate": true
           }
         ]
       },
