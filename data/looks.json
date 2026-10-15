@@ -271,12 +271,19 @@
       {
         "name": "Chocolate satin & black",
         "description": "Chocolate-brown blazer with a black satin cowl-neck top, chocolate satin maxi skirt, pointed heels and black clutch",
-        "products": []
+        "image": "/assets/elegantbrownsatindressingroom20261015162652jpg20261015174024-1.jpg",
+        "products": [
+          {
+            "name": "Satin skirt",
+            "image": "/assets/chocolate-brown-satin-maxi-skirt.png",
+            "url": "https://www.nordstrom.com/s/open-edit-satin-maxi-skirt/8217625?breadcrumb=Home%2FHoliday+Outfits%2FWomen&color=450&origin=category-personalizedsort",
+            "affiliate": false
+          }
+        ]
       },
       {
         "name": "Burgundy mini & leather boots",
-        "description": "Chocolate-brown blazer, burgundy mini dress, chocolate-brown knee-high leather boots and burgundy shoulder bag",
-        "products": []
+        "description": "Chocolate-brown blazer, burgundy mini dress, chocolate-brown knee-high leather boots and burgundy shoulder bag"
       }
     ]
   },
