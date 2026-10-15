@@ -124,7 +124,7 @@
             "note": "Affiliate link",
             "image": "/assets/grey-pants-wide-leg-amazon.png",
             "url": "https://amzn.to/4jYRyR7",
-            "affiliate": false
+            "affiliate": true
           }
         ]
       },
@@ -145,13 +145,9 @@
             "note": "Affiliate link",
             "image": "/assets/glossy-burgundy-leather-handbag.png",
             "url": "https://amzn.to/4s856Mk",
-            "affiliate": false
+            "affiliate": true
           }
         ]
-      },
-      {
-        "name": "Bag",
-        "description": "Shop similar"
       }
     ]
   },
