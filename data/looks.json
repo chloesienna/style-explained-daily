@@ -164,6 +164,35 @@
     ]
   },
   {
+    "title": "One Chocolate Brown Blazer, Five Looks",
+    "subtitle": "Five elegant ways to style one chocolate-brown blazer.",
+    "category": "five",
+    "image": "",
+    "description": "A chocolate-brown blazer styled for five occasions. AI-generated outfit images are styling inspiration; shopping links will be added as products are selected.",
+    "published": false,
+    "products": [],
+    "outfits": [
+      {
+        "name": "Soft pink & satin",
+        "description": "Chocolate-brown blazer, dusty-pink knit, ivory satin midi skirt, brown knee-high boots and burgundy shoulder bag",
+        "image": "",
+        "products": []
+      },
+      {
+        "name": "Modern all-black",
+        "description": "Chocolate-brown blazer, black turtleneck, tailored black trousers, pointed black heels and structured black bag",
+        "image": "",
+        "products": []
+      },
+      {
+        "name": "Weekend denim",
+        "description": "Chocolate-brown blazer, white tee, straight-leg blue jeans, brown loafers and structured brown handbag",
+        "image": "",
+        "products": []
+      }
+    ]
+  },
+  {
     "title": "One Navy Blazer, Five Looks",
     "subtitle": "Five outfits you'll actually wear.",
     "category": "five",
