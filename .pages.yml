@@ -45,21 +45,15 @@ content:
             collapsed: true
             summary: "{name}"
         fields:
+          - name: productId
+            label: Product library ID (e.g. product-001)
+            type: string
           - name: name
-            label: Product name
+            label: Display name (optional override)
             type: string
           - name: note
-            label: Product details / exact or similar
+            label: Label (exact or similar)
             type: string
-          - name: image
-            label: Product image (only if licensed)
-            type: image
-          - name: url
-            label: Shopping URL
-            type: string
-          - name: affiliate
-            label: Affiliate link (advertising)
-            type: boolean
       - name: outfits
         label: Outfits in this edit
         type: object
@@ -85,13 +79,52 @@ content:
                 collapsed: true
                 summary: "{name}"
             fields:
+              - name: productId
+                label: Product library ID (e.g. product-001)
+                type: string
               - name: name
+                label: Display name (optional override)
                 type: string
               - name: note
+                label: Label (exact or similar)
                 type: string
-              - name: image
-                type: image
-              - name: url
-                type: string
-              - name: affiliate
-                type: boolean
+  - name: product-library
+    label: Product Library
+    type: file
+    path: data/products.json
+    format: json
+    list: true
+    fields:
+      - name: id
+        label: Unique product ID (do not change after creating)
+        type: string
+        required: true
+      - name: name
+        label: Product name
+        type: string
+      - name: store
+        label: Store
+        type: string
+      - name: image
+        label: Product image
+        type: image
+      - name: url
+        label: Shopping URL
+        type: string
+      - name: affiliate
+        label: Affiliate link (advertising)
+        type: boolean
+      - name: status
+        label: Link status
+        type: select
+        options:
+          values:
+            - value: needs-review
+              label: Needs review
+            - value: verified
+              label: Verified
+            - value: unavailable
+              label: Unavailable
+      - name: note
+        label: Notes
+        type: text
