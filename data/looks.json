@@ -165,15 +165,15 @@
   },
   {
     "title": "One Chocolate Brown Blazer, Five Looks",
-    "subtitle": "Five elegant ways to style one chocolate-brown blazer.",
+    "subtitle": "Chocolate-brown blazer outfit ideas and shopping links.",
     "category": "five",
     "image": "/assets/elegantbrownsatindressingroom20261015162652jpg20261015174024.jpg",
-    "description": "A chocolate-brown blazer styled for five occasions. AI-generated outfit images are styling inspiration; shopping links will be added as products are selected.",
-    "published": false,
+    "description": "Three looks to explore so far, from soft pink and satin to modern black and weekend denim. More outfits and shopping links are being added. AI-generated outfit images are styling inspiration, not exact product photography.",
+    "published": true,
     "products": [
       {
         "name": "Brown blazer",
-        "note": "Excact",
+        "note": "Featured original blazer",
         "image": "/assets/chocolate-brown-tailored-blazer.png",
         "url": "https://amzn.to/4yW8H2E",
         "affiliate": true
@@ -208,7 +208,8 @@
             "url": "https://amzn.to/4hVxFYE",
             "affiliate": true
           }
-        ]
+        ],
+        "image": "/assets/elegantbrownsatindressingroom20261015162652jpg20261015174024.jpg"
       },
       {
         "name": "Modern all-black",
