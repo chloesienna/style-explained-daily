@@ -1,1 +1,312 @@
-[]
+[
+  {
+    "id": "product-001",
+    "name": "Amazon Essentials Stretch Poplin Button-Up",
+    "store": "Amazon",
+    "image": "/assets/shirt.jpg",
+    "url": "https://amzn.to/4yksY0I",
+    "affiliate": true,
+    "status": "needs-review",
+    "note": "Powder Blue · Featured original shirt"
+  },
+  {
+    "id": "product-002",
+    "name": "Navy trousers",
+    "store": "hm.com",
+    "image": "/assets/hm-navy-blue-wide-leg-pants.avif",
+    "url": "https://www2.hm.com/en_us/productpage.1318831007.html",
+    "affiliate": false,
+    "status": "needs-review",
+    "note": "Shop similar"
+  },
+  {
+    "id": "product-003",
+    "name": "Navy trousers",
+    "store": "Amazon",
+    "image": "/assets/navy-wide-leg-tailored-trousers.png",
+    "url": "https://amzn.to/3TSDzC0",
+    "affiliate": true,
+    "status": "needs-review",
+    "note": "Affiliate link"
+  },
+  {
+    "id": "product-004",
+    "name": "Brown belt",
+    "store": "Amazon",
+    "image": "/assets/chestnut-leather-belt-with-brass-buckle.png",
+    "url": "https://amzn.to/4ezVGDF",
+    "affiliate": true,
+    "status": "needs-review",
+    "note": "Affiliate link"
+  },
+  {
+    "id": "product-005",
+    "name": "Brown bag",
+    "store": "Amazon",
+    "image": "/assets/brown-crescent-leather-shoulder-bag-1.png",
+    "url": "https://amzn.to/47SyP2r",
+    "affiliate": true,
+    "status": "needs-review",
+    "note": "Affiliate link"
+  },
+  {
+    "id": "product-006",
+    "name": "Brown loafers",
+    "store": "Amazon",
+    "image": "/assets/classic-brown-leather-horsebit-loafers.png",
+    "url": "https://amzn.to/47fODw3",
+    "affiliate": true,
+    "status": "needs-review",
+    "note": "Shop similar"
+  },
+  {
+    "id": "product-007",
+    "name": "Straight-leg jeans",
+    "store": "gapfactory.com",
+    "image": "/assets/classic-indigo-straight-leg-jeans.png",
+    "url": "https://www.gapfactory.com/browse/product.do?pid=524542001&vid=1&utm_source=chatgpt.com&utm_medium=feed&oppcref=8180a905-f689-4085-b953-315c9824f9cf#pdp-page-content",
+    "affiliate": false,
+    "status": "needs-review",
+    "note": "Shop similar"
+  },
+  {
+    "id": "product-008",
+    "name": "White bag",
+    "store": "macys.com",
+    "image": "/assets/ivory-pebbled-leather-handbag.png",
+    "url": "https://www.macys.com/shop/product/victoria-handbag-with-gold-hardware-victoria-hyde?ID=19142265&swatchColor=White#BRAND,COLOR_NORMAL/Victoria%20Hyde%20London,White",
+    "affiliate": false,
+    "status": "needs-review",
+    "note": "Shop similar"
+  },
+  {
+    "id": "product-009",
+    "name": "White trousers",
+    "store": "abercrombie.com",
+    "image": "/assets/ivory-wide-leg-tailored-trousers-1.png",
+    "url": "https://www.abercrombie.com/shop/eu/p/tailored-wide-leg-pants-51625331?originalStore=us",
+    "affiliate": false,
+    "status": "needs-review",
+    "note": "Shop similar"
+  },
+  {
+    "id": "product-010",
+    "name": "Navy blazer",
+    "store": "Amazon",
+    "image": "/assets/navy-tailored-blazer-product-shot.png",
+    "url": "https://amzn.to/4s8R79d",
+    "affiliate": true,
+    "status": "needs-review",
+    "note": "Affiliate link"
+  },
+  {
+    "id": "product-011",
+    "name": "Grey trousers",
+    "store": "Amazon",
+    "image": "/assets/grey-pants-wide-leg-amazon.png",
+    "url": "https://amzn.to/4jYRyR7",
+    "affiliate": true,
+    "status": "needs-review",
+    "note": "Affiliate link"
+  },
+  {
+    "id": "product-012",
+    "name": "Jeans",
+    "store": "gap.com",
+    "image": "/assets/centered-dark-indigo-straight-leg-jeans.png",
+    "url": "https://www.gap.com/browse/product.do?pid=728815002&vid=1&pcid=5664&cid=5664#pdp-page-content",
+    "affiliate": false,
+    "status": "needs-review",
+    "note": "Affiliate link"
+  },
+  {
+    "id": "product-013",
+    "name": "Bag",
+    "store": "Amazon",
+    "image": "/assets/glossy-burgundy-leather-handbag.png",
+    "url": "https://amzn.to/4s856Mk",
+    "affiliate": true,
+    "status": "needs-review",
+    "note": "Affiliate link"
+  },
+  {
+    "id": "product-014",
+    "name": "Shoes",
+    "store": "Amazon",
+    "image": "/assets/glossy-burgundy-slingback-pumps.png",
+    "url": "https://amzn.to/3WssCYs",
+    "affiliate": true,
+    "status": "needs-review",
+    "note": ""
+  },
+  {
+    "id": "product-015",
+    "name": "Trench",
+    "store": "Amazon",
+    "image": "/assets/camel-double-breasted-trench-coat.png",
+    "url": "https://amzn.to/47Ug1zM",
+    "affiliate": true,
+    "status": "needs-review",
+    "note": ""
+  },
+  {
+    "id": "product-016",
+    "name": "Brown blazer",
+    "store": "Amazon",
+    "image": "/assets/chocolate-brown-tailored-blazer.png",
+    "url": "https://amzn.to/4yW8H2E",
+    "affiliate": true,
+    "status": "needs-review",
+    "note": "Featured original blazer"
+  },
+  {
+    "id": "product-017",
+    "name": "Dusty rose top",
+    "store": "hm.com",
+    "image": "/assets/hm-dusty-rose-shirt.avif",
+    "url": "https://www2.hm.com/en_us/productpage.1360320012.html",
+    "affiliate": false,
+    "status": "needs-review",
+    "note": "Shop similar"
+  },
+  {
+    "id": "product-018",
+    "name": "Satin midi skirt",
+    "store": "Amazon",
+    "image": "/assets/ivory-satin-a-line-skirt.png",
+    "url": "https://amzn.to/4zs3eAy",
+    "affiliate": true,
+    "status": "needs-review",
+    "note": ""
+  },
+  {
+    "id": "product-019",
+    "name": "Boots",
+    "store": "Amazon",
+    "image": "/assets/chocolate-brown-knee-high-leather-boots.png",
+    "url": "https://amzn.to/4yVeV2O",
+    "affiliate": true,
+    "status": "needs-review",
+    "note": ""
+  },
+  {
+    "id": "product-020",
+    "name": "Bag",
+    "store": "Amazon",
+    "image": "/assets/burgundy-leather-crescent-shoulder-bag-1.png",
+    "url": "https://amzn.to/4hVxFYE",
+    "affiliate": true,
+    "status": "needs-review",
+    "note": ""
+  },
+  {
+    "id": "product-021",
+    "name": "Black trousers",
+    "store": "Amazon",
+    "image": "/assets/black-wide-leg-tailored-trousers-1-1.png",
+    "url": "https://amzn.to/4s54FSS",
+    "affiliate": true,
+    "status": "needs-review",
+    "note": ""
+  },
+  {
+    "id": "product-022",
+    "name": "Shoes",
+    "store": "Amazon",
+    "image": "/assets/elegant-black-slingback-heels.png",
+    "url": "https://amzn.to/4jZJAqZ",
+    "affiliate": true,
+    "status": "needs-review",
+    "note": ""
+  },
+  {
+    "id": "product-023",
+    "name": "Bag",
+    "store": "Amazon",
+    "image": "/assets/luxury-black-leather-handbag-with-gold-clasp.png",
+    "url": "https://amzn.to/4ymuu2g",
+    "affiliate": true,
+    "status": "needs-review",
+    "note": ""
+  },
+  {
+    "id": "product-024",
+    "name": "Brown structured bag",
+    "store": "Amazon",
+    "image": "/assets/jwpeibrownbagproduct2x3-1.png",
+    "url": "https://amzn.to/4yQhzqz",
+    "affiliate": true,
+    "status": "needs-review",
+    "note": "Shop similar"
+  },
+  {
+    "id": "product-025",
+    "name": "Jeans",
+    "store": "gapfactory.com",
+    "image": "/assets/gap-jeans-medium-wash-3.avif",
+    "url": "https://www.gapfactory.com/browse/product.do?pid=524647001&vid=1&utm_source=chatgpt.com&utm_medium=feed&oppcref=8180a905-f689-4085-b953-315c9824f9cf#pdp-page-content",
+    "affiliate": false,
+    "status": "needs-review",
+    "note": ""
+  },
+  {
+    "id": "product-026",
+    "name": "Loafers",
+    "store": "Amazon",
+    "image": "/assets/classic-brown-leather-horsebit-loafers-2.png",
+    "url": "https://amzn.to/4jir2SC",
+    "affiliate": true,
+    "status": "needs-review",
+    "note": ""
+  },
+  {
+    "id": "product-027",
+    "name": "Belt",
+    "store": "Amazon",
+    "image": "/assets/brownbeltportrait2x3.png",
+    "url": "https://amzn.to/4dJFzDk",
+    "affiliate": true,
+    "status": "needs-review",
+    "note": ""
+  },
+  {
+    "id": "product-028",
+    "name": "Satin skirt",
+    "store": "nordstrom.com",
+    "image": "/assets/chocolate-brown-satin-maxi-skirt.png",
+    "url": "https://www.nordstrom.com/s/open-edit-satin-maxi-skirt/8217625?breadcrumb=Home%2FHoliday+Outfits%2FWomen&color=450&origin=category-personalizedsort",
+    "affiliate": false,
+    "status": "needs-review",
+    "note": ""
+  },
+  {
+    "id": "product-029",
+    "name": "Bag",
+    "store": "Amazon",
+    "image": "/assets/black-pleated-satin-clutch-with-gold-bar.png",
+    "url": "https://amzn.to/4ynnz9c",
+    "affiliate": true,
+    "status": "needs-review",
+    "note": ""
+  },
+  {
+    "id": "product-030",
+    "name": "Shoes",
+    "store": "Amazon",
+    "image": "/assets/elegant-black-slingback-heels-1.png",
+    "url": "https://amzn.to/3UugS7l",
+    "affiliate": true,
+    "status": "needs-review",
+    "note": ""
+  },
+  {
+    "id": "product-031",
+    "name": "Burgundy dress",
+    "store": "Amazon",
+    "image": "/assets/burgundy-long-sleeve-fit-and-flare-dress.png",
+    "url": "https://amzn.to/4s5cQi2",
+    "affiliate": true,
+    "status": "needs-review",
+    "note": ""
+  }
+]
