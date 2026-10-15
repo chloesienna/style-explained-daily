@@ -167,8 +167,18 @@
     "title": "One Chocolate Brown Blazer, Five Looks",
     "subtitle": "Five elegant ways to style one chocolate-brown blazer.",
     "category": "five",
+    "image": "/assets/elegantbrownsatindressingroom20261015162652jpg20261015174024.jpg",
     "description": "A chocolate-brown blazer styled for five occasions. AI-generated outfit images are styling inspiration; shopping links will be added as products are selected.",
     "published": false,
+    "products": [
+      {
+        "name": "Brown blazer",
+        "note": "Excact",
+        "image": "/assets/chocolate-brown-tailored-blazer.png",
+        "url": "https://amzn.to/4yW8H2E",
+        "affiliate": true
+      }
+    ],
     "outfits": [
       {
         "name": "Soft pink & satin",
