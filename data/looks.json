@@ -278,6 +278,11 @@
             "image": "/assets/chocolate-brown-satin-maxi-skirt.png",
             "url": "https://www.nordstrom.com/s/open-edit-satin-maxi-skirt/8217625?breadcrumb=Home%2FHoliday+Outfits%2FWomen&color=450&origin=category-personalizedsort",
             "affiliate": false
+          },
+          {
+            "name": "Bag",
+            "url": "https://amzn.to/4ynnz9c",
+            "affiliate": true
           }
         ]
       },
