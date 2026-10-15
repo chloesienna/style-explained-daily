@@ -233,7 +233,7 @@
             "name": "Bag",
             "image": "/assets/luxury-black-leather-handbag-with-gold-clasp.png",
             "url": "https://amzn.to/4ymuu2g",
-            "affiliate": false
+            "affiliate": true
           }
         ]
       },
