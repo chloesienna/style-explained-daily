@@ -45,8 +45,8 @@
           {
             "name": "Brown bag",
             "note": "Shop similar",
-            "image": "/assets/burgundy-leather-crescent-shoulder-bag.png",
-            "url": "https://amzn.to/3TTf0F1",
+            "image": "/assets/brown-crescent-leather-shoulder-bag-1.png",
+            "url": "https://amzn.to/47SyP2r",
             "affiliate": true
           }
         ]
@@ -103,6 +103,13 @@
             "note": "Shop similar",
             "image": "/assets/ivory-wide-leg-tailored-trousers-1.png",
             "url": "https://www.abercrombie.com/shop/eu/p/tailored-wide-leg-pants-51625331?originalStore=us",
+            "affiliate": false
+          },
+          {
+            "name": "Navy blazer",
+            "note": "Affiliate link",
+            "image": "/assets/navy-tailored-blazer-product-shot.png",
+            "url": "https://amzn.to/4s8R79d",
             "affiliate": false
           }
         ]
