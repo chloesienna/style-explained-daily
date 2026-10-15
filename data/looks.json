@@ -69,6 +69,20 @@
             "image": "/assets/classic-indigo-straight-leg-jeans.png",
             "url": "https://www.gapfactory.com/browse/product.do?pid=524542001&vid=1&utm_source=chatgpt.com&utm_medium=feed&oppcref=8180a905-f689-4085-b953-315c9824f9cf#pdp-page-content",
             "affiliate": false
+          },
+          {
+            "name": "Brown belt",
+            "note": "Shop similar",
+            "image": "/assets/chestnut-leather-belt-with-brass-buckle-1.png",
+            "url": "https://amzn.to/4ezVGDF",
+            "affiliate": false
+          },
+          {
+            "name": "Brown bag",
+            "note": "Shop similar",
+            "image": "/assets/brown-crescent-leather-shoulder-bag.png",
+            "url": "https://amzn.to/47SyP2r",
+            "affiliate": false
           }
         ]
       },
@@ -79,12 +93,14 @@
         "products": [
           {
             "name": "White bag",
+            "note": "Shop similar",
             "image": "/assets/ivory-pebbled-leather-handbag.png",
             "url": "https://www.macys.com/shop/product/victoria-handbag-with-gold-hardware-victoria-hyde?ID=19142265&swatchColor=White#BRAND,COLOR_NORMAL/Victoria%20Hyde%20London,White",
             "affiliate": false
           },
           {
             "name": "White trousers",
+            "note": "Shop similar",
             "image": "/assets/ivory-wide-leg-tailored-trousers-1.png",
             "url": "https://www.abercrombie.com/shop/eu/p/tailored-wide-leg-pants-51625331?originalStore=us",
             "affiliate": false
