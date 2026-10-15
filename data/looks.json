@@ -195,7 +195,14 @@
         "name": "Weekend denim",
         "description": "Chocolate-brown blazer, white tee, straight-leg blue jeans, brown loafers and structured brown handbag",
         "image": "",
-        "products": []
+        "products": [
+          {
+            "name": "Brown structured bag",
+            "note": "Shop similar",
+            "url": "https://amzn.to/4yQhzqz",
+            "affiliate": true
+          }
+        ]
       }
     ]
   },
