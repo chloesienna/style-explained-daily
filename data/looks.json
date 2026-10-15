@@ -176,7 +176,14 @@
         "name": "Soft pink & satin",
         "description": "Chocolate-brown blazer, dusty-pink knit, ivory satin midi skirt, brown knee-high boots and burgundy shoulder bag",
         "image": "",
-        "products": []
+        "products": [
+          {
+            "name": "Dusty rose top",
+            "note": "Shop similar",
+            "url": "https://www2.hm.com/en_us/productpage.1360320012.html",
+            "affiliate": false
+          }
+        ]
       },
       {
         "name": "Modern all-black",
