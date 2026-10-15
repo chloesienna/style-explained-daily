@@ -212,7 +212,28 @@
       },
       {
         "name": "Modern all-black",
-        "description": "Chocolate-brown blazer, black turtleneck, tailored black trousers, pointed black heels and structured black bag"
+        "description": "Chocolate-brown blazer, black turtleneck, tailored black trousers, pointed black heels and structured black bag",
+        "image": "/assets/unnamedwebp20261015180728jpg20261015184501.jpg",
+        "products": [
+          {
+            "name": "Black trousers",
+            "image": "/assets/black-wide-leg-tailored-trousers-1-1.png",
+            "url": "https://amzn.to/4s54FSS",
+            "affiliate": true
+          },
+          {
+            "name": "Shoes",
+            "image": "/assets/elegant-black-slingback-heels.png",
+            "url": "https://amzn.to/4jZJAqZ",
+            "affiliate": true
+          },
+          {
+            "name": "Bag",
+            "image": "/assets/luxury-black-leather-handbag-with-gold-clasp.png",
+            "url": "https://amzn.to/4ymuu2g",
+            "affiliate": false
+          }
+        ]
       },
       {
         "name": "Weekend denim",
