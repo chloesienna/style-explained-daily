@@ -111,13 +111,29 @@
             "image": "/assets/navy-tailored-blazer-product-shot.png",
             "url": "https://amzn.to/4s8R79d",
             "affiliate": false
+          },
+          {
+            "name": "White shoes",
+            "note": "Shop similar",
+            "image": "/assets/white-gold-bit-loafers-on-white.png",
+            "url": "https://amzn.to/4yS1cKb",
+            "affiliate": false
           }
         ]
       },
       {
         "name": "Soft grey",
         "description": "Grey tailoring with a sweater over the shoulders",
-        "image": "/assets/elegant-closet-fashion-portrait-8.png"
+        "image": "/assets/elegant-closet-fashion-portrait-8.png",
+        "products": [
+          {
+            "name": "Grey trousers",
+            "note": "Affiliate link",
+            "image": "/assets/grey-pants-wide-leg-amazon.png",
+            "url": "https://amzn.to/4jYRyR7",
+            "affiliate": false
+          }
+        ]
       },
       {
         "name": "Trench & burgundy",
