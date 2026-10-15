@@ -6,7 +6,7 @@
     "image": "/assets/shirt.jpg",
     "url": "https://amzn.to/4yksY0I",
     "affiliate": true,
-    "status": "needs-review",
+    "status": "verified",
     "note": "Powder Blue · Featured original shirt"
   },
   {
@@ -14,9 +14,9 @@
     "name": "Navy trousers",
     "store": "hm.com",
     "image": "/assets/hm-navy-blue-wide-leg-pants.avif",
-    "url": "https://www2.hm.com/en_us/productpage.1318831007.html",
+    "url": "https://www2.hm.com/en_us/productpage.1318831006.html",
     "affiliate": false,
-    "status": "needs-review",
+    "status": "verified",
     "note": "Shop similar"
   },
   {
@@ -26,7 +26,7 @@
     "image": "/assets/navy-wide-leg-tailored-trousers.png",
     "url": "https://amzn.to/3TSDzC0",
     "affiliate": true,
-    "status": "needs-review",
+    "status": "verified",
     "note": "Affiliate link"
   },
   {
@@ -136,8 +136,7 @@
     "image": "/assets/glossy-burgundy-slingback-pumps.png",
     "url": "https://amzn.to/3WssCYs",
     "affiliate": true,
-    "status": "needs-review",
-    "note": ""
+    "status": "needs-review"
   },
   {
     "id": "product-015",
@@ -146,8 +145,7 @@
     "image": "/assets/camel-double-breasted-trench-coat.png",
     "url": "https://amzn.to/47Ug1zM",
     "affiliate": true,
-    "status": "needs-review",
-    "note": ""
+    "status": "needs-review"
   },
   {
     "id": "product-016",
@@ -176,8 +174,7 @@
     "image": "/assets/ivory-satin-a-line-skirt.png",
     "url": "https://amzn.to/4zs3eAy",
     "affiliate": true,
-    "status": "needs-review",
-    "note": ""
+    "status": "needs-review"
   },
   {
     "id": "product-019",
@@ -186,8 +183,7 @@
     "image": "/assets/chocolate-brown-knee-high-leather-boots.png",
     "url": "https://amzn.to/4yVeV2O",
     "affiliate": true,
-    "status": "needs-review",
-    "note": ""
+    "status": "needs-review"
   },
   {
     "id": "product-020",
@@ -196,8 +192,7 @@
     "image": "/assets/burgundy-leather-crescent-shoulder-bag-1.png",
     "url": "https://amzn.to/4hVxFYE",
     "affiliate": true,
-    "status": "needs-review",
-    "note": ""
+    "status": "needs-review"
   },
   {
     "id": "product-021",
@@ -206,8 +201,7 @@
     "image": "/assets/black-wide-leg-tailored-trousers-1-1.png",
     "url": "https://amzn.to/4s54FSS",
     "affiliate": true,
-    "status": "needs-review",
-    "note": ""
+    "status": "needs-review"
   },
   {
     "id": "product-022",
@@ -216,8 +210,7 @@
     "image": "/assets/elegant-black-slingback-heels.png",
     "url": "https://amzn.to/4jZJAqZ",
     "affiliate": true,
-    "status": "needs-review",
-    "note": ""
+    "status": "needs-review"
   },
   {
     "id": "product-023",
@@ -226,8 +219,7 @@
     "image": "/assets/luxury-black-leather-handbag-with-gold-clasp.png",
     "url": "https://amzn.to/4ymuu2g",
     "affiliate": true,
-    "status": "needs-review",
-    "note": ""
+    "status": "needs-review"
   },
   {
     "id": "product-024",
@@ -246,8 +238,7 @@
     "image": "/assets/gap-jeans-medium-wash-3.avif",
     "url": "https://www.gapfactory.com/browse/product.do?pid=524647001&vid=1&utm_source=chatgpt.com&utm_medium=feed&oppcref=8180a905-f689-4085-b953-315c9824f9cf#pdp-page-content",
     "affiliate": false,
-    "status": "needs-review",
-    "note": ""
+    "status": "needs-review"
   },
   {
     "id": "product-026",
@@ -256,8 +247,7 @@
     "image": "/assets/classic-brown-leather-horsebit-loafers-2.png",
     "url": "https://amzn.to/4jir2SC",
     "affiliate": true,
-    "status": "needs-review",
-    "note": ""
+    "status": "needs-review"
   },
   {
     "id": "product-027",
@@ -266,8 +256,7 @@
     "image": "/assets/brownbeltportrait2x3.png",
     "url": "https://amzn.to/4dJFzDk",
     "affiliate": true,
-    "status": "needs-review",
-    "note": ""
+    "status": "needs-review"
   },
   {
     "id": "product-028",
@@ -276,8 +265,7 @@
     "image": "/assets/chocolate-brown-satin-maxi-skirt.png",
     "url": "https://www.nordstrom.com/s/open-edit-satin-maxi-skirt/8217625?breadcrumb=Home%2FHoliday+Outfits%2FWomen&color=450&origin=category-personalizedsort",
     "affiliate": false,
-    "status": "needs-review",
-    "note": ""
+    "status": "needs-review"
   },
   {
     "id": "product-029",
@@ -286,8 +274,7 @@
     "image": "/assets/black-pleated-satin-clutch-with-gold-bar.png",
     "url": "https://amzn.to/4ynnz9c",
     "affiliate": true,
-    "status": "needs-review",
-    "note": ""
+    "status": "needs-review"
   },
   {
     "id": "product-030",
@@ -296,8 +283,7 @@
     "image": "/assets/elegant-black-slingback-heels-1.png",
     "url": "https://amzn.to/3UugS7l",
     "affiliate": true,
-    "status": "needs-review",
-    "note": ""
+    "status": "needs-review"
   },
   {
     "id": "product-031",
@@ -306,7 +292,6 @@
     "image": "/assets/burgundy-long-sleeve-fit-and-flare-dress.png",
     "url": "https://amzn.to/4s5cQi2",
     "affiliate": true,
-    "status": "needs-review",
-    "note": ""
+    "status": "needs-review"
   }
 ]
