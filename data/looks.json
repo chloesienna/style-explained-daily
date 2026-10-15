@@ -110,7 +110,7 @@
             "note": "Affiliate link",
             "image": "/assets/navy-tailored-blazer-product-shot.png",
             "url": "https://amzn.to/4s8R79d",
-            "affiliate": false
+            "affiliate": true
           }
         ]
       },
@@ -135,9 +135,16 @@
         "products": [
           {
             "name": "Jeans",
-            "note": "Shop similar",
+            "note": "Affiliate link",
             "image": "/assets/centered-dark-indigo-straight-leg-jeans.png",
             "url": "https://www.gap.com/browse/product.do?pid=728815002&vid=1&pcid=5664&cid=5664#pdp-page-content",
+            "affiliate": false
+          },
+          {
+            "name": "Bag",
+            "note": "Affiliate link",
+            "image": "/assets/glossy-burgundy-leather-handbag.png",
+            "url": "https://amzn.to/4s856Mk",
             "affiliate": false
           }
         ]
