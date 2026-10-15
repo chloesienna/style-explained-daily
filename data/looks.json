@@ -296,7 +296,15 @@
       },
       {
         "name": "Burgundy mini & leather boots",
-        "description": "Chocolate-brown blazer, burgundy mini dress, chocolate-brown knee-high leather boots and burgundy shoulder bag"
+        "description": "Chocolate-brown blazer, burgundy mini dress, chocolate-brown knee-high leather boots and burgundy shoulder bag",
+        "products": [
+          {
+            "name": "Burgundy dress",
+            "image": "/assets/burgundy-long-sleeve-fit-and-flare-dress.png",
+            "url": "https://amzn.to/4s5cQi2",
+            "affiliate": true
+          }
+        ]
       }
     ]
   },
