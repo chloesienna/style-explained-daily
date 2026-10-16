@@ -343,5 +343,13 @@
     "image": "/assets/dark-brown-leather-loafer-pair.png",
     "url": "https://amzn.to/4i3AMOs",
     "affiliate": true
+  },
+  {
+    "id": "product-038",
+    "name": "Black bag",
+    "store": "Chales and Keith",
+    "image": "/assets/minimalist-black-leather-handbag-product-shot.png",
+    "url": "https://www.charleskeith.com/us/CK2-50782678_BLACK.html",
+    "affiliate": false
   }
 ]
