@@ -352,5 +352,13 @@
     "url": "https://www.charleskeith.com/us/CK2-50782678_BLACK.html",
     "affiliate": false,
     "status": "verified"
+  },
+  {
+    "id": "product-039",
+    "name": "Black mini skirt",
+    "store": "Amazon",
+    "image": "/assets/minimal-black-a-line-skirt-product-photo.png",
+    "url": "https://amzn.to/47YQnde",
+    "affiliate": true
   }
 ]
