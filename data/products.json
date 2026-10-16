@@ -335,5 +335,13 @@
     "url": "https://www2.hm.com/en_us/productpage.1353108001.html",
     "affiliate": false,
     "status": "verified"
+  },
+  {
+    "id": "product-o37",
+    "name": "Brown loafers",
+    "store": "Amazon",
+    "image": "/assets/dark-brown-leather-loafer-pair.png",
+    "url": "https://amzn.to/4i3AMOs",
+    "affiliate": true
   }
 ]
