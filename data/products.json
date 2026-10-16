@@ -323,8 +323,9 @@
     "id": "product-035",
     "name": "Chocolate belt",
     "store": "Amazon",
+    "image": "/assets/coiled-brown-leather-belt-with-gold-buckle.png",
     "url": "https://amzn.to/4sab5jK",
     "affiliate": true,
-    "status": "verified"
+    "status": "needs-review"
   }
 ]
