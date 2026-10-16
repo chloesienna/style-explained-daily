@@ -318,5 +318,13 @@
     "url": "https://amzn.to/3Wt57P0",
     "affiliate": true,
     "status": "verified"
+  },
+  {
+    "id": "product-035",
+    "name": "Chocolate belt",
+    "store": "Amazon",
+    "url": "https://amzn.to/4sab5jK",
+    "affiliate": true,
+    "status": "verified"
   }
 ]
