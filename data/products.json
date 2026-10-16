@@ -310,5 +310,13 @@
     "url": "https://www.gap.com/browse/product.do?pid=839482102&vid=1#pdp-page-content",
     "affiliate": false,
     "status": "verified"
+  },
+  {
+    "id": "product-034",
+    "name": "Burgundy bag",
+    "store": "Amazon",
+    "url": "https://amzn.to/3Wt57P0",
+    "affiliate": true,
+    "status": "verified"
   }
 ]
