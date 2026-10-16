@@ -293,5 +293,14 @@
     "url": "https://amzn.to/4s5cQi2",
     "affiliate": true,
     "status": "needs-review"
+  },
+  {
+    "id": "product-032",
+    "name": "Toasted Almond Brown Cardigan",
+    "store": "GAP",
+    "image": "/assets/taupe-button-front-knit-cardigan.png",
+    "url": "https://www.gap.com/browse/product.do?pid=839482032&vid=1#pdp-page-content",
+    "affiliate": false,
+    "status": "verified"
   }
 ]
