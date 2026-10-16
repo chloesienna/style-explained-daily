@@ -327,5 +327,13 @@
     "url": "https://amzn.to/4sab5jK",
     "affiliate": true,
     "status": "needs-review"
+  },
+  {
+    "id": "product-036",
+    "name": "Brown bag",
+    "image": "/assets/hm-bag.avif",
+    "url": "https://www2.hm.com/en_us/productpage.1353108001.html",
+    "affiliate": false,
+    "status": "verified"
   }
 ]
