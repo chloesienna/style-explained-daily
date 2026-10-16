@@ -360,5 +360,13 @@
     "image": "/assets/minimal-black-a-line-skirt-product-photo.png",
     "url": "https://amzn.to/47YQnde",
     "affiliate": true
+  },
+  {
+    "id": "product-040",
+    "name": "Navy pants",
+    "store": "Amazon",
+    "image": "/assets/navy-wide-leg-tailored-trousers-1.png",
+    "url": "https://amzn.to/4s4CfbC",
+    "affiliate": true
   }
 ]
