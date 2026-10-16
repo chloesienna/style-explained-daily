@@ -375,5 +375,13 @@
     "image": "/assets/screenshot-2026-10-16-at-124315.png",
     "url": "https://amzn.to/3Ux4KCu",
     "affiliate": true
+  },
+  {
+    "id": "product-042",
+    "name": "Brown jw pei",
+    "store": "Nordstrom",
+    "image": "/assets/chocolate-brown-jw-pei-handbag.png",
+    "url": "https://www.nordstrom.com/s/jw-pei-carmen-top-handle-bag/9010662?origin=coordinating-9010662-0-2-PDP_1-recbot-vertex_ymal_v5&recs_placement=PDP_1&recs_strategy=vertex_ymal_v5&recs_source=recbot&recs_page_type=product&recs_seed=8815143&color=DARK%20BROWN",
+    "affiliate": false
   }
 ]
