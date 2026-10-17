@@ -28,6 +28,8 @@ content:
               label: Color Guides
             - value: tips
               label: Styling Tips
+            - value: outfits
+              label: Outfit Inspiration
       - name: image
         label: Main image
         type: image
