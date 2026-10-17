@@ -96,9 +96,8 @@ content:
     list: true
     fields:
       - name: id
-        label: Unique product ID (do not change after creating)
+        label: Unique product ID (auto-filled after Save; leave blank)
         type: string
-        required: true
       - name: name
         label: Product name
         type: string
