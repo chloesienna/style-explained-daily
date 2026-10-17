@@ -1,0 +1,77 @@
+name: Assign product library IDs
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/products.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: product-library-id-assignment
+  cancel-in-progress: false
+
+jobs:
+  fill-product-ids:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - name: Populate IDs for new products only
+        run: |
+          python3 - <<'PY'
+          import json
+          import re
+          from pathlib import Path
+
+          path = Path('data/products.json')
+          original = path.read_text(encoding='utf-8')
+          products = json.loads(original)
+          if not isinstance(products, list):
+              raise ValueError('Product library must contain a JSON list')
+
+          used = {p.get('id') for p in products if isinstance(p, dict) and isinstance(p.get('id'), str) and p.get('id').strip()}
+          numbers = [int(m.group(1)) for pid in used if (m := re.fullmatch(r'product-(\d+)', pid))]
+          next_number = max(numbers, default=0) + 1
+          changed = False
+
+          for index, product in enumerate(products, start=1):
+              if not isinstance(product, dict):
+                  raise ValueError('Each product must be a JSON object')
+              if isinstance(product.get('id'), str) and product['id'].strip():
+                  continue
+              # Prefer the editor's item position; use the next available number
+              # when items have been reordered, removed, or manually numbered.
+              candidate = index
+              if f'product-{candidate:03d}' in used:
+                  candidate = next_number
+              while f'product-{candidate:03d}' in used:
+                  candidate += 1
+              product['id'] = f'product-{candidate:03d}'
+              used.add(product['id'])
+              next_number = max(next_number, candidate + 1)
+              changed = True
+
+          if changed:
+              path.write_text(json.dumps(products, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+              print('Assigned missing product IDs')
+          else:
+              print('All product IDs already populated')
+          PY
+      - name: Commit filled IDs
+        run: |
+          if git diff --quiet -- data/products.json; then
+            echo "No missing product IDs"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/products.json
+          git commit -m "Auto-assign IDs to new product library items"
+          git pull --rebase origin main
+          git push origin HEAD:main
