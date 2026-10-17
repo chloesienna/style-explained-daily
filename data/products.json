@@ -391,5 +391,14 @@
     "image": "/assets/blackruchedclutchproduct2x3.png",
     "url": "https://amzn.to/47Iqn65",
     "affiliate": false
+  },
+  {
+    "id": "product-044",
+    "name": "Ivory Bow-Tie Blouse",
+    "store": "Amazon",
+    "url": "https://amzn.to/4sai8Zy",
+    "affiliate": true,
+    "status": "needs-review",
+    "note": "Amazon affiliate link"
   }
 ]
