@@ -92,10 +92,6 @@
         "image": "/assets/referencemodel-midsize-1.png",
         "products": [
           {
-            "productId": "product-o37",
-            "name": "Brown loafers"
-          },
-          {
             "productId": "https://amzn.to/47fODw3"
           }
         ]
