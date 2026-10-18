@@ -10,11 +10,14 @@
       {
         "name": "Navy knit & chocolate leather",
         "description": "Navy ribbed midi dress, chocolate sweater over the shoulders, brown knee-high boots and structured leather bag.",
-        "image": "/assets/midsize-navy-knit-dress.jpg",
+        "image": "/assets/elegant-closet-lounge-fashion-portrait-1-1.png",
         "products": [
           {
             "productId": "product-019",
             "name": "Brown boots"
+          },
+          {
+            "productId": "product-036"
           }
         ]
       },
