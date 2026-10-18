@@ -48,7 +48,7 @@
       {
         "name": "Chocolate blazer & grey tailoring",
         "description": "Chocolate blazer, ivory shirt, charcoal wide-leg trousers, brown belt, loafers and chocolate handbag.",
-        "image": "/assets/midsize-chocolate-blazer-tailoring.jpg",
+        "image": "/assets/elegant-brown-blazer-closet-lookbook.png",
         "products": [
           {
             "productId": "product-016",
@@ -57,6 +57,9 @@
           {
             "productId": "product-011",
             "name": "Grey trousers"
+          },
+          {
+            "productId": "product-024"
           }
         ]
       },
