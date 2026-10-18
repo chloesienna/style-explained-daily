@@ -3,7 +3,7 @@
     "title": "6 Chic Everyday Outfits",
     "subtitle": "Polished, wearable inspiration on a mid-size model.",
     "category": "outfits",
-    "image": "/assets/midsize-navy-knit-dress.jpg",
+    "image": "/assets/elegant-dressing-room-fashion-portrait-10.png",
     "description": "Six elegant everyday outfit ideas, styled on a mid-size model. Discover navy, chocolate brown, ivory and timeless wardrobe combinations. AI-generated outfits are styling inspiration, not exact product photographs.",
     "published": false,
     "outfits": [
@@ -11,7 +11,12 @@
         "name": "Navy knit & chocolate leather",
         "description": "Navy ribbed midi dress, chocolate sweater over the shoulders, brown knee-high boots and structured leather bag.",
         "image": "/assets/midsize-navy-knit-dress.jpg",
-        "products": []
+        "products": [
+          {
+            "productId": "product-019",
+            "name": "Brown boots"
+          }
+        ]
       },
       {
         "name": "Relaxed blazer & denim",
@@ -19,12 +24,12 @@
         "image": "/assets/midsize-chocolate-blazer-denim.jpg",
         "products": [
           {
-            "name": "Brown blazer",
-            "productId": "product-016"
+            "productId": "product-016",
+            "name": "Brown blazer"
           },
           {
-            "name": "Brown loafers",
-            "productId": "product-o37"
+            "productId": "product-o37",
+            "name": "Brown loafers"
           }
         ]
       },
@@ -34,12 +39,12 @@
         "image": "/assets/midsize-ivory-bow-blouse.jpg",
         "products": [
           {
-            "name": "Ivory Bow-Tie Blouse",
-            "productId": "product-044"
+            "productId": "product-044",
+            "name": "Ivory Bow-Tie Blouse"
           },
           {
-            "name": "Navy pants",
-            "productId": "product-040"
+            "productId": "product-040",
+            "name": "Navy pants"
           }
         ]
       },
@@ -49,12 +54,12 @@
         "image": "/assets/midsize-chocolate-blazer-tailoring.jpg",
         "products": [
           {
-            "name": "Brown blazer",
-            "productId": "product-016"
+            "productId": "product-016",
+            "name": "Brown blazer"
           },
           {
-            "name": "Grey trousers",
-            "productId": "product-011"
+            "productId": "product-011",
+            "name": "Grey trousers"
           }
         ]
       },
@@ -64,8 +69,8 @@
         "image": "/assets/midsize-ivory-satin-skirt.jpg",
         "products": [
           {
-            "name": "Satin midi skirt",
-            "productId": "product-018"
+            "productId": "product-018",
+            "name": "Satin midi skirt"
           }
         ]
       },
@@ -75,8 +80,8 @@
         "image": "/assets/midsize-navy-quarter-zip.jpg",
         "products": [
           {
-            "name": "Brown loafers",
-            "productId": "product-o37"
+            "productId": "product-o37",
+            "name": "Brown loafers"
           }
         ]
       }
@@ -91,9 +96,9 @@
     "published": true,
     "products": [
       {
+        "productId": "product-001",
         "name": "Amazon Essentials Stretch Poplin Button-Up",
-        "note": "Powder Blue · Featured original shirt",
-        "productId": "product-001"
+        "note": "Powder Blue · Featured original shirt"
       }
     ],
     "outfits": [
@@ -103,24 +108,24 @@
         "image": "/assets/blue-look-1.jpg",
         "products": [
           {
+            "productId": "product-002",
             "name": "Navy trousers",
-            "note": "Shop similar",
-            "productId": "product-002"
+            "note": "Shop similar"
           },
           {
+            "productId": "product-003",
             "name": "Navy trousers",
-            "note": "Affiliate link",
-            "productId": "product-003"
+            "note": "Affiliate link"
           },
           {
+            "productId": "product-004",
             "name": "Brown belt",
-            "note": "Affiliate link",
-            "productId": "product-004"
+            "note": "Affiliate link"
           },
           {
+            "productId": "product-005",
             "name": "Brown bag",
-            "note": "Affiliate link",
-            "productId": "product-005"
+            "note": "Affiliate link"
           }
         ]
       },
@@ -130,24 +135,24 @@
         "image": "/assets/elegant-closet-loafer-look.png",
         "products": [
           {
+            "productId": "product-006",
             "name": "Brown loafers",
-            "note": "Shop similar",
-            "productId": "product-006"
+            "note": "Shop similar"
           },
           {
+            "productId": "product-007",
             "name": "Straight-leg jeans",
-            "note": "Shop similar",
-            "productId": "product-007"
+            "note": "Shop similar"
           },
           {
+            "productId": "product-004",
             "name": "Brown belt",
-            "note": "Shop similar",
-            "productId": "product-004"
+            "note": "Shop similar"
           },
           {
+            "productId": "product-005",
             "name": "Brown bag",
-            "note": "Shop similar",
-            "productId": "product-005"
+            "note": "Shop similar"
           }
         ]
       },
@@ -157,19 +162,19 @@
         "image": "/assets/blue-look-3.jpg",
         "products": [
           {
+            "productId": "product-008",
             "name": "White bag",
-            "note": "Shop similar",
-            "productId": "product-008"
+            "note": "Shop similar"
           },
           {
+            "productId": "product-009",
             "name": "White trousers",
-            "note": "Shop similar",
-            "productId": "product-009"
+            "note": "Shop similar"
           },
           {
+            "productId": "product-010",
             "name": "Navy blazer",
-            "note": "Affiliate link",
-            "productId": "product-010"
+            "note": "Affiliate link"
           }
         ]
       },
@@ -179,9 +184,9 @@
         "image": "/assets/elegant-closet-fashion-portrait-8.png",
         "products": [
           {
+            "productId": "product-011",
             "name": "Grey trousers",
-            "note": "Affiliate link",
-            "productId": "product-011"
+            "note": "Affiliate link"
           }
         ]
       },
@@ -191,22 +196,22 @@
         "image": "/assets/blue-look-5.jpg",
         "products": [
           {
+            "productId": "product-012",
             "name": "Jeans",
-            "note": "Affiliate link",
-            "productId": "product-012"
+            "note": "Affiliate link"
           },
           {
+            "productId": "product-013",
             "name": "Bag",
-            "note": "Affiliate link",
-            "productId": "product-013"
+            "note": "Affiliate link"
           },
           {
-            "name": "Shoes",
-            "productId": "product-014"
+            "productId": "product-014",
+            "name": "Shoes"
           },
           {
-            "name": "Trench",
-            "productId": "product-015"
+            "productId": "product-015",
+            "name": "Trench"
           }
         ]
       }
@@ -221,9 +226,9 @@
     "published": true,
     "products": [
       {
+        "productId": "product-016",
         "name": "Brown blazer",
-        "note": "Featured original blazer",
-        "productId": "product-016"
+        "note": "Featured original blazer"
       }
     ],
     "outfits": [
@@ -233,21 +238,21 @@
         "image": "/assets/warmeditorialstyleinan20261015184527jpg20261015191505.jpg",
         "products": [
           {
+            "productId": "product-017",
             "name": "Dusty rose top",
-            "note": "Shop similar",
-            "productId": "product-017"
+            "note": "Shop similar"
           },
           {
-            "name": "Satin midi skirt",
-            "productId": "product-018"
+            "productId": "product-018",
+            "name": "Satin midi skirt"
           },
           {
-            "name": "Boots",
-            "productId": "product-019"
+            "productId": "product-019",
+            "name": "Boots"
           },
           {
-            "name": "Bag",
-            "productId": "product-020"
+            "productId": "product-020",
+            "name": "Bag"
           }
         ]
       },
@@ -257,16 +262,16 @@
         "image": "/assets/unnamedwebp20261015180728jpg20261015184501.jpg",
         "products": [
           {
-            "name": "Black trousers",
-            "productId": "product-021"
+            "productId": "product-021",
+            "name": "Black trousers"
           },
           {
-            "name": "Shoes",
-            "productId": "product-022"
+            "productId": "product-022",
+            "name": "Shoes"
           },
           {
-            "name": "Bag",
-            "productId": "product-023"
+            "productId": "product-023",
+            "name": "Bag"
           }
         ]
       },
@@ -276,21 +281,21 @@
         "image": "/assets/chocolateblazerfashionportrait1png20261015171021.jpg",
         "products": [
           {
+            "productId": "product-024",
             "name": "Brown structured bag",
-            "note": "Shop similar",
-            "productId": "product-024"
+            "note": "Shop similar"
           },
           {
-            "name": "Jeans",
-            "productId": "product-025"
+            "productId": "product-025",
+            "name": "Jeans"
           },
           {
-            "name": "Loafers",
-            "productId": "product-026"
+            "productId": "product-026",
+            "name": "Loafers"
           },
           {
-            "name": "Belt",
-            "productId": "product-027"
+            "productId": "product-027",
+            "name": "Belt"
           }
         ]
       },
@@ -300,16 +305,16 @@
         "image": "/assets/elegantbrownsatindressingroom20261015162652jpg20261015174024-1.jpg",
         "products": [
           {
-            "name": "Satin skirt",
-            "productId": "product-028"
+            "productId": "product-028",
+            "name": "Satin skirt"
           },
           {
-            "name": "Bag",
-            "productId": "product-029"
+            "productId": "product-029",
+            "name": "Bag"
           },
           {
-            "name": "Shoes",
-            "productId": "product-030"
+            "productId": "product-030",
+            "name": "Shoes"
           }
         ]
       },
@@ -319,16 +324,16 @@
         "image": "/assets/warmburgundyfashionina20261015195727-1.jpg",
         "products": [
           {
-            "name": "Burgundy dress",
-            "productId": "product-031"
+            "productId": "product-031",
+            "name": "Burgundy dress"
           },
           {
-            "name": "Bag",
-            "productId": "product-020"
+            "productId": "product-020",
+            "name": "Bag"
           },
           {
-            "name": "Boots",
-            "productId": "product-019"
+            "productId": "product-019",
+            "name": "Boots"
           }
         ]
       }
