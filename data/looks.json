@@ -5,7 +5,7 @@
     "category": "outfits",
     "image": "/assets/elegant-dressing-room-fashion-portrait-10.png",
     "description": "Six elegant everyday outfit ideas, styled on a mid-size model. Discover navy, chocolate brown, ivory and timeless wardrobe combinations. AI-generated outfits are styling inspiration, not exact product photographs.",
-    "published": false,
+    "published": true,
     "outfits": [
       {
         "name": "Navy knit & chocolate leather",
