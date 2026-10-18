@@ -400,5 +400,14 @@
     "affiliate": true,
     "status": "needs-review",
     "note": "Amazon affiliate link"
+  },
+  {
+    "id": "product-045",
+    "name": "Navy Ribbed Mock-Neck Midi Dress",
+    "store": "Amazon",
+    "url": "https://amzn.to/4edfYCQ",
+    "affiliate": true,
+    "status": "needs-review",
+    "note": "Navy ribbed long-sleeve fitted knit midi dress · Amazon affiliate link"
   }
 ]
