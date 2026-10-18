@@ -411,5 +411,12 @@
     "affiliate": true,
     "status": "needs-review",
     "note": "Navy ribbed long-sleeve fitted knit midi dress · Amazon affiliate link"
+  },
+  {
+    "name": "Navy quarter-zip",
+    "store": "Mango",
+    "url": "https://shop.mango.com/us/en/p/women/sweaters-and-cardigans/sweatshirts/turtleneck-sweatshirt-with-zip/37055867/56/00",
+    "affiliate": false,
+    "status": "verified"
   }
 ]
