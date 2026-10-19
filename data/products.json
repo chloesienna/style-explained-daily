@@ -440,12 +440,20 @@
     "status": "verified"
   },
   {
+    "id": "product-049",
     "name": "White blazer",
     "store": "Amazon",
     "image": "/assets/ivory-ruched-sleeve-shawl-collar-blazer.png",
     "url": "https://amzn.to/4zGOQEF",
     "affiliate": true,
-    "status": "verified",
-    "id": "product-049"
+    "status": "verified"
+  },
+  {
+    "name": "Camel merino sweater",
+    "store": "HM",
+    "image": "/assets/dcdffd5bc320fb3c5c8eed010b416f54a225fdfc.avif",
+    "url": "https://www2.hm.com/en_us/productpage.1324110004.html",
+    "affiliate": false,
+    "status": "verified"
   }
 ]
