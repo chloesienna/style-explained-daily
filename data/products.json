@@ -480,5 +480,12 @@
     "image": "/assets/beige-wide-leg-tailored-trousers.png",
     "url": "https://amzn.to/4k5R63B",
     "affiliate": true
+  },
+  {
+    "name": "Brown bag",
+    "store": "Amazon",
+    "image": "/assets/luxury-chocolate-brown-leather-handbag.png",
+    "url": "https://amzn.to/4BjzCHg",
+    "affiliate": true
   }
 ]
