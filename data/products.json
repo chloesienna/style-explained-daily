@@ -449,12 +449,25 @@
     "status": "verified"
   },
   {
+    "id": "product-050",
     "name": "Camel merino sweater",
     "store": "HM",
     "image": "/assets/dcdffd5bc320fb3c5c8eed010b416f54a225fdfc.avif",
     "url": "https://www2.hm.com/en_us/productpage.1324110004.html",
     "affiliate": false,
-    "status": "verified",
-    "id": "product-050"
+    "status": "verified"
+  },
+  {
+    "name": "Trenchcoat",
+    "store": "Amazon",
+    "image": "/assets/beige-double-breasted-trench-coat.png",
+    "url": "https://amzn.to/4if4jEU",
+    "affiliate": true
+  },
+  {
+    "name": "Brown turtleneck",
+    "store": "Amazon",
+    "url": "https://amzn.to/4BjnV3e",
+    "affiliate": true
   }
 ]
