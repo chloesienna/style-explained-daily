@@ -9,21 +9,27 @@
     "published": false,
     "products": [
       {
+        "productId": "product-052",
         "name": "Chocolate brown turtleneck"
       },
       {
+        "productId": "product-053",
         "name": "Ivory tailored trousers"
       },
       {
+        "productId": "product-035",
         "name": "Chocolate brown belt"
       },
       {
-        "name": "JW PEI chocolate brown handbag"
+        "productId": "product-054",
+        "name": "Chocolate brown handbag"
       },
       {
+        "productId": "product-056",
         "name": "Gold hoop earrings"
       },
       {
+        "productId": "product-055",
         "name": "Chocolate brown ankle boots"
       }
     ],
