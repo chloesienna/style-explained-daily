@@ -458,18 +458,25 @@
     "status": "verified"
   },
   {
+    "id": "product-051",
     "name": "Trenchcoat",
     "store": "Amazon",
     "image": "/assets/beige-double-breasted-trench-coat.png",
     "url": "https://amzn.to/4if4jEU",
-    "affiliate": true,
-    "id": "product-051"
+    "affiliate": true
   },
   {
+    "id": "product-052",
     "name": "Brown turtleneck",
     "store": "Amazon",
     "url": "https://amzn.to/4BjnV3e",
-    "affiliate": true,
-    "id": "product-052"
+    "affiliate": true
+  },
+  {
+    "name": "Wide leg work pants",
+    "store": "Amazon",
+    "image": "/assets/beige-wide-leg-tailored-trousers.png",
+    "url": "https://amzn.to/4k5R63B",
+    "affiliate": true
   }
 ]
