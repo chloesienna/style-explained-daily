@@ -496,5 +496,12 @@
     "image": "/assets/elegant-brown-leather-ankle-boots.png",
     "url": "https://amzn.to/4i9LSkG",
     "affiliate": true
+  },
+  {
+    "name": "Gold hoops",
+    "store": "Amazon",
+    "image": "/assets/chunky-gold-hoop-earrings.png",
+    "url": "https://amzn.to/4yWZY09",
+    "affiliate": true
   }
 ]
