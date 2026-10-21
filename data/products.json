@@ -493,16 +493,16 @@
     "id": "product-055",
     "name": "Heeled ankle booties",
     "store": "Amazon",
-    "image": "/assets/elegant-brown-leather-ankle-boots.png",
+    "image": "/assets/elegant-brown-leather-ankle-boots-1.png",
     "url": "https://amzn.to/4i9LSkG",
     "affiliate": true
   },
   {
+    "id": "product-056",
     "name": "Gold hoops",
     "store": "Amazon",
-    "image": "/assets/chunky-gold-hoop-earrings.png",
+    "image": "/assets/chunky-gold-hoop-earrings-1.png",
     "url": "https://amzn.to/4yWZY09",
-    "affiliate": true,
-    "id": "product-056"
+    "affiliate": true
   }
 ]
