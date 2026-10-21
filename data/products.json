@@ -506,27 +506,34 @@
     "affiliate": true
   },
   {
+    "id": "product-057",
     "name": "Navy structured bag",
     "store": "Amazon",
     "image": "/assets/navy-jw-pei-winged-handbag.png",
     "url": "https://amzn.to/4BkLnNG",
-    "affiliate": true,
-    "id": "product-057"
+    "affiliate": true
   },
   {
+    "id": "product-058",
     "name": "Navy blazer",
     "store": "Amazon",
     "image": "/assets/navy-tailored-blazer-catalog-shot.png",
     "url": "https://amzn.to/4BBobuT",
-    "affiliate": false,
-    "id": "product-058"
+    "affiliate": false
   },
   {
+    "id": "product-059",
     "name": "Blue knit top",
     "store": "Amazon",
     "image": "/assets/light-blue-knit-v-neck-sweater-2.png",
     "url": "https://amzn.to/4dNt0H5",
-    "affiliate": true,
-    "id": "product-059"
+    "affiliate": true
+  },
+  {
+    "name": "Navy slingbacks",
+    "store": "Amazon",
+    "image": "/assets/navy-slingback-kitten-heel-pumps.png",
+    "url": "https://amzn.to/3W0bysP",
+    "affiliate": true
   }
 ]
