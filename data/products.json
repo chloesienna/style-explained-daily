@@ -511,5 +511,12 @@
     "image": "/assets/navy-jw-pei-winged-handbag.png",
     "url": "https://amzn.to/4BkLnNG",
     "affiliate": true
+  },
+  {
+    "name": "Navy blazer",
+    "store": "Amazon",
+    "image": "/assets/navy-tailored-blazer-catalog-shot.png",
+    "url": "https://amzn.to/4BkLnNG",
+    "affiliate": true
   }
 ]
