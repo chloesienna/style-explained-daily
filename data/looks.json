@@ -1,5 +1,45 @@
 [
   {
+    "title": "The Navy Edit",
+    "slug": "the-navy-edit",
+    "subtitle": "Navy tailoring, powder blue and ivory — timeless pieces, modern style.",
+    "category": "collage",
+    "image": "",
+    "description": "A polished navy blazer layered over a powder-blue shirt with ivory tailored trousers, navy accessories and gold hoops. Affiliate links may earn a commission at no extra cost.",
+    "published": false,
+    "products": [
+      {
+        "productId": "product-058",
+        "name": "Navy tailored blazer"
+      },
+      {
+        "productId": "product-061",
+        "name": "Powder-blue shirt"
+      },
+      {
+        "productId": "product-053",
+        "name": "Ivory tailored trousers"
+      },
+      {
+        "productId": "product-057",
+        "name": "JW PEI navy handbag"
+      },
+      {
+        "productId": "product-060",
+        "name": "Navy slingbacks"
+      },
+      {
+        "productId": "product-056",
+        "name": "Gold hoop earrings"
+      },
+      {
+        "productId": "product-062",
+        "name": "Navy belt with gold buckle"
+      }
+    ],
+    "outfits": []
+  },
+  {
     "title": "The Chocolate Edit",
     "slug": "the-chocolate-edit",
     "subtitle": "Chocolate brown, ivory and timeless accessories.",
