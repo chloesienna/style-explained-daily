@@ -517,6 +517,13 @@
     "store": "Amazon",
     "image": "/assets/navy-tailored-blazer-catalog-shot.png",
     "url": "https://amzn.to/4BBobuT",
+    "affiliate": false
+  },
+  {
+    "name": "Blue knit top",
+    "store": "Amazon",
+    "image": "/assets/light-blue-knit-v-neck-sweater-2.png",
+    "url": "https://amzn.to/4dNt0H5",
     "affiliate": true
   }
 ]
