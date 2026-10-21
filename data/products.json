@@ -462,12 +462,14 @@
     "store": "Amazon",
     "image": "/assets/beige-double-breasted-trench-coat.png",
     "url": "https://amzn.to/4if4jEU",
-    "affiliate": true
+    "affiliate": true,
+    "id": "product-051"
   },
   {
     "name": "Brown turtleneck",
     "store": "Amazon",
     "url": "https://amzn.to/4BjnV3e",
-    "affiliate": true
+    "affiliate": true,
+    "id": "product-052"
   }
 ]
