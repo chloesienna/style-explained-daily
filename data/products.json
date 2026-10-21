@@ -554,10 +554,17 @@
     "note": "The Navy Edit — optional seventh piece; add link and image"
   },
   {
+    "id": "product-063",
     "name": "Beige wide leg pants",
     "image": "/assets/ivory-wide-leg-tailored-trousers-2.png",
     "url": "https://amzn.to/4yXIXCX",
-    "affiliate": false,
-    "id": "product-063"
+    "affiliate": false
+  },
+  {
+    "name": "Burgundy cardigan",
+    "store": "Amazon",
+    "image": "/assets/burgundy-gold-button-knit-cardigan.png",
+    "url": "https://amzn.to/48dt4fP",
+    "affiliate": true
   }
 ]
