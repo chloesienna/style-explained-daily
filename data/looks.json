@@ -6,7 +6,7 @@
     "category": "collage",
     "image": "/assets/the-chocolate-edit.png",
     "description": "A polished chocolate-and-ivory outfit. Explore the six pieces and shop the look once product links are added.",
-    "published": false,
+    "published": true,
     "products": [
       {
         "productId": "product-052",
@@ -32,8 +32,7 @@
         "productId": "product-055",
         "name": "Chocolate brown ankle boots"
       }
-    ],
-    "outfits": []
+    ]
   },
   {
     "title": "5 Chic Everyday Outfits",
