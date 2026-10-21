@@ -490,10 +490,11 @@
     "affiliate": true
   },
   {
+    "id": "product-055",
     "name": "Heeled ankle booties",
     "store": "Amazon",
+    "image": "/assets/elegant-brown-leather-ankle-boots.png",
     "url": "https://amzn.to/4i9LSkG",
-    "affiliate": true,
-    "id": "product-055"
+    "affiliate": true
   }
 ]
