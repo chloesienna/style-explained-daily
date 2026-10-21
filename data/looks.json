@@ -4,7 +4,7 @@
     "slug": "the-navy-edit",
     "subtitle": "Navy tailoring, powder blue and ivory — timeless pieces, modern style.",
     "category": "collage",
-    "image": "",
+    "image": "/assets/the-navy-edit-timeless-style.png",
     "description": "A polished navy blazer layered over a powder-blue shirt with ivory tailored trousers, navy accessories and gold hoops. Affiliate links may earn a commission at no extra cost.",
     "published": false,
     "products": [
@@ -36,8 +36,7 @@
         "productId": "product-062",
         "name": "Navy belt with gold buckle"
       }
-    ],
-    "outfits": []
+    ]
   },
   {
     "title": "The Chocolate Edit",
