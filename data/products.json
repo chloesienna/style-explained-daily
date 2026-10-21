@@ -534,6 +534,27 @@
     "store": "Amazon",
     "image": "/assets/navy-slingback-kitten-heel-pumps.png",
     "url": "https://amzn.to/3W0bysP",
-    "affiliate": true
+    "affiliate": true,
+    "id": "product-060"
+  },
+  {
+    "id": "product-061",
+    "name": "Powder-blue button-up shirt",
+    "store": "",
+    "image": "",
+    "url": "",
+    "affiliate": false,
+    "status": "needs-review",
+    "note": "The Navy Edit — add exact shirt shopping link and image"
+  },
+  {
+    "id": "product-062",
+    "name": "Navy belt with gold buckle",
+    "store": "",
+    "image": "",
+    "url": "",
+    "affiliate": false,
+    "status": "needs-review",
+    "note": "The Navy Edit — optional seventh piece; add link and image"
   }
 ]
