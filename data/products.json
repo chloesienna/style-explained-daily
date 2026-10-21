@@ -469,15 +469,16 @@
     "id": "product-052",
     "name": "Brown turtleneck",
     "store": "Amazon",
+    "image": "/assets/chocolate-brown-ribbed-turtleneck-sweater-3.png",
     "url": "https://amzn.to/4BjnV3e",
     "affiliate": true
   },
   {
+    "id": "product-053",
     "name": "Wide leg work pants",
     "store": "Amazon",
     "image": "/assets/beige-wide-leg-tailored-trousers.png",
     "url": "https://amzn.to/4k5R63B",
-    "affiliate": true,
-    "id": "product-053"
+    "affiliate": true
   }
 ]
