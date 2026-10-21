@@ -1,5 +1,35 @@
 [
   {
+    "title": "The Chocolate Edit",
+    "slug": "the-chocolate-edit",
+    "subtitle": "Chocolate brown, ivory and timeless accessories.",
+    "category": "collage",
+    "image": "/assets/the-chocolate-edit.png",
+    "description": "A polished chocolate-and-ivory outfit. Explore the individual pieces below; shopping links will be added as they are verified.",
+    "published": true,
+    "products": [
+      {
+        "name": "Chocolate brown turtleneck"
+      },
+      {
+        "name": "Ivory tailored trousers"
+      },
+      {
+        "name": "Chocolate brown belt"
+      },
+      {
+        "name": "JW PEI chocolate brown handbag"
+      },
+      {
+        "name": "Gold hoop earrings"
+      },
+      {
+        "name": "Chocolate brown ankle boots"
+      }
+    ],
+    "outfits": []
+  },
+  {
     "title": "5 Chic Everyday Outfits",
     "subtitle": "Polished looks you'll want to recreate.",
     "category": "outfits",
