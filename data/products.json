@@ -482,11 +482,17 @@
     "affiliate": true
   },
   {
+    "id": "product-054",
     "name": "Brown bag",
     "store": "Amazon",
     "image": "/assets/luxury-chocolate-brown-leather-handbag.png",
     "url": "https://amzn.to/4BjzCHg",
-    "affiliate": true,
-    "id": "product-054"
+    "affiliate": true
+  },
+  {
+    "name": "Heeled ankle booties",
+    "store": "Amazon",
+    "url": "https://amzn.to/4i9LSkG",
+    "affiliate": true
   }
 ]
