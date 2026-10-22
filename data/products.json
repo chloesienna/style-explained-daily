@@ -645,6 +645,7 @@
     "store": "Amazon",
     "image": "/assets/dark-indigo-denim-pencil-skirt.png",
     "url": "https://link.amazon/B0179XuYt",
-    "affiliate": true
+    "affiliate": true,
+    "id": "product-074"
   }
 ]
