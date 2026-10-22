@@ -620,6 +620,7 @@
     "name": "Grey Wide Leg Pants",
     "store": "GAP",
     "image": "/assets/wide-leg-charcoal-dress-trousers-1.png",
-    "affiliate": false
+    "affiliate": false,
+    "id": "product-071"
   }
 ]
