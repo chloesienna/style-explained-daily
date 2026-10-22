@@ -593,17 +593,18 @@
     "affiliate": true
   },
   {
+    "id": "product-068",
+    "name": "Levis 724",
     "store": "Amazon",
     "url": "https://link.amazon/B058xLtQH",
-    "affiliate": true,
-    "id": "product-068"
+    "affiliate": true
   },
   {
+    "id": "product-069",
     "name": "Dark brown loafers",
     "store": "Amazon",
     "image": "/assets/symmetrical-brown-horsebit-loafers.png",
     "url": "https://link.amazon/B0cs5I4lk",
-    "affiliate": true,
-    "id": "product-069"
+    "affiliate": true
   }
 ]
