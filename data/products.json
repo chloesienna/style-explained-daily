@@ -585,10 +585,11 @@
     "affiliate": true
   },
   {
+    "id": "product-067",
     "name": "White shirt",
     "store": "Amazon",
+    "image": "/assets/white-tailored-button-up-blouse.png",
     "url": "https://link.amazon/B0cdPIM08",
-    "affiliate": true,
-    "id": "product-067"
+    "affiliate": true
   }
 ]
