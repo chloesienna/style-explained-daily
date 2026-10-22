@@ -171,7 +171,7 @@
     "id": "product-018",
     "name": "Satin midi skirt",
     "store": "Amazon",
-    "image": "/assets/ivory-satin-a-line-skirt.png",
+    "image": "/assets/ivory-satin-bias-cut-maxi-skirt.png",
     "url": "https://amzn.to/4zs3eAy",
     "affiliate": true,
     "status": "needs-review"
@@ -625,11 +625,11 @@
     "affiliate": false
   },
   {
+    "id": "product-072",
     "name": "Burgundy bag",
     "store": "Amazon",
     "image": "/assets/burgundy-luxury-handbag-cutout.png",
     "url": "https://link.amazon/B0cSNV1xb",
-    "affiliate": true,
-    "id": "product-072"
+    "affiliate": true
   }
 ]
