@@ -653,6 +653,7 @@
     "store": "Amazon",
     "image": "/assets/luxury-black-leather-belt-with-gold-buckle.png",
     "url": "https://link.amazon/B0cOvCnCv",
-    "affiliate": true
+    "affiliate": true,
+    "id": "product-075"
   }
 ]
