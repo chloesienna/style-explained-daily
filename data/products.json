@@ -629,6 +629,7 @@
     "store": "Amazon",
     "image": "/assets/burgundy-luxury-handbag-cutout.png",
     "url": "https://link.amazon/B0cSNV1xb",
-    "affiliate": true
+    "affiliate": true,
+    "id": "product-072"
   }
 ]
