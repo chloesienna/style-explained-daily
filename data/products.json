@@ -633,10 +633,11 @@
     "affiliate": true
   },
   {
+    "id": "product-073",
     "name": "Burgundy clutch",
     "store": "Amazon",
+    "image": "/assets/burgundy-pleated-leather-clutch-1.png",
     "url": "https://link.amazon/B044aDKrA",
-    "affiliate": true,
-    "id": "product-073"
+    "affiliate": true
   }
 ]
