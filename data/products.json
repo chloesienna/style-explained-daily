@@ -198,7 +198,7 @@
     "id": "product-021",
     "name": "Black trousers",
     "store": "Amazon",
-    "image": "/assets/black-wide-leg-tailored-trousers-1-1.png",
+    "image": "/assets/black-high-waisted-wide-leg-trousers.png",
     "url": "https://amzn.to/4s54FSS",
     "affiliate": true,
     "status": "needs-review"
@@ -649,11 +649,11 @@
     "affiliate": true
   },
   {
+    "id": "product-075",
     "name": "Black belt",
     "store": "Amazon",
     "image": "/assets/luxury-black-leather-belt-with-gold-buckle.png",
     "url": "https://link.amazon/B0cOvCnCv",
-    "affiliate": true,
-    "id": "product-075"
+    "affiliate": true
   }
 ]
