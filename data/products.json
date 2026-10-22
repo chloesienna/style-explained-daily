@@ -588,6 +588,7 @@
     "name": "White shirt",
     "store": "Amazon",
     "url": "https://link.amazon/B0cdPIM08",
-    "affiliate": true
+    "affiliate": true,
+    "id": "product-067"
   }
 ]
