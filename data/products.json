@@ -609,10 +609,11 @@
     "affiliate": true
   },
   {
+    "id": "product-070",
     "name": "Dark brown tote",
     "store": "Amazon",
+    "image": "/assets/chocolate-leather-tote-with-matching-zip-pouch.png",
     "url": "https://link.amazon/B071FWxOG",
-    "affiliate": true,
-    "id": "product-070"
+    "affiliate": true
   }
 ]
