@@ -631,5 +631,11 @@
     "image": "/assets/burgundy-luxury-handbag-cutout.png",
     "url": "https://link.amazon/B0cSNV1xb",
     "affiliate": true
+  },
+  {
+    "name": "Burgundy clutch",
+    "store": "Amazon",
+    "url": "https://link.amazon/B044aDKrA",
+    "affiliate": true
   }
 ]
