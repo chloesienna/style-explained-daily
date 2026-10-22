@@ -1,5 +1,40 @@
 [
   {
+    "title": "The Burgundy Edit",
+    "slug": "the-burgundy-edit",
+    "subtitle": "Rich burgundy, soft grey and ivory — timeless style.",
+    "category": "collage",
+    "image": "",
+    "description": "A burgundy gold-button cardigan layered over an ivory shirt with soft-grey tailored trousers, burgundy JW PEI handbag, slingback heels and gold hoops. AI-generated styling inspiration; linked products may be similar rather than exact matches. Some links may be affiliate links.",
+    "published": false,
+    "products": [
+      {
+        "productId": "product-064",
+        "name": "Burgundy gold-button cardigan"
+      },
+      {
+        "productId": "product-001",
+        "name": "White button-up shirt — similar style"
+      },
+      {
+        "productId": "product-065",
+        "name": "Grey wide-leg trousers"
+      },
+      {
+        "productId": "product-066",
+        "name": "JW PEI burgundy handbag"
+      },
+      {
+        "productId": "product-014",
+        "name": "Burgundy slingbacks — similar style"
+      },
+      {
+        "productId": "product-056",
+        "name": "Gold hoop earrings"
+      }
+    ]
+  },
+  {
     "title": "The Navy Edit",
     "slug": "the-navy-edit",
     "subtitle": "Navy tailoring, powder blue and ivory — timeless pieces, modern style.",
