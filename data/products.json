@@ -639,5 +639,12 @@
     "image": "/assets/burgundy-pleated-leather-clutch-1.png",
     "url": "https://link.amazon/B044aDKrA",
     "affiliate": true
+  },
+  {
+    "name": "Denim skirt",
+    "store": "Amazon",
+    "image": "/assets/dark-indigo-denim-pencil-skirt.png",
+    "url": "https://link.amazon/B0179XuYt",
+    "affiliate": true
   }
 ]
