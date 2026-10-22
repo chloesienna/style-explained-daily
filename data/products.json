@@ -591,5 +591,17 @@
     "image": "/assets/white-tailored-button-up-blouse.png",
     "url": "https://link.amazon/B0cdPIM08",
     "affiliate": true
+  },
+  {
+    "store": "Amazon",
+    "url": "https://link.amazon/B058xLtQH",
+    "affiliate": true
+  },
+  {
+    "name": "Dark brown loafers",
+    "store": "Amazon",
+    "image": "/assets/symmetrical-brown-horsebit-loafers.png",
+    "url": "https://link.amazon/B0cs5I4lk",
+    "affiliate": true
   }
 ]
