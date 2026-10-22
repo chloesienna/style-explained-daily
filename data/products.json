@@ -620,7 +620,7 @@
     "id": "product-071",
     "name": "Grey Wide Leg Pants",
     "store": "GAP",
-    "image": "/assets/wide-leg-charcoal-dress-trousers-1.png",
+    "image": "/assets/wide-leg-charcoal-dress-trousers-1-1.png",
     "url": "https://www.uniqlo.com/dk/en/products/E487957-000/00?colorDisplayCode=08&sizeDisplayCode=002&sv1=affiliate&sv_campaign_id=323889&awc=21363_1792674188_a8147cb32562823036ce64386bcf56e2&utm_source=awin&utm_medium=affiliate-influencer&utm_campaign=323889&pldDisplayCode=030",
     "affiliate": false
   },
@@ -641,11 +641,18 @@
     "affiliate": true
   },
   {
+    "id": "product-074",
     "name": "Denim skirt",
     "store": "Amazon",
     "image": "/assets/dark-indigo-denim-pencil-skirt.png",
     "url": "https://link.amazon/B0179XuYt",
-    "affiliate": true,
-    "id": "product-074"
+    "affiliate": true
+  },
+  {
+    "name": "Black belt",
+    "store": "Amazon",
+    "image": "/assets/luxury-black-leather-belt-with-gold-buckle.png",
+    "url": "https://link.amazon/B0cOvCnCv",
+    "affiliate": true
   }
 ]
