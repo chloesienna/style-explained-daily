@@ -612,6 +612,7 @@
     "name": "Dark brown tote",
     "store": "Amazon",
     "url": "https://link.amazon/B071FWxOG",
-    "affiliate": true
+    "affiliate": true,
+    "id": "product-070"
   }
 ]
