@@ -595,13 +595,15 @@
   {
     "store": "Amazon",
     "url": "https://link.amazon/B058xLtQH",
-    "affiliate": true
+    "affiliate": true,
+    "id": "product-068"
   },
   {
     "name": "Dark brown loafers",
     "store": "Amazon",
     "image": "/assets/symmetrical-brown-horsebit-loafers.png",
     "url": "https://link.amazon/B0cs5I4lk",
-    "affiliate": true
+    "affiliate": true,
+    "id": "product-069"
   }
 ]
