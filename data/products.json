@@ -577,10 +577,11 @@
     "affiliate": false
   },
   {
+    "id": "product-066",
     "name": "Burgundy bag",
     "store": "Amazon",
+    "image": "/assets/burgundy-winged-leather-handbag.png",
     "url": "https://link.amazon/B0hnq6nps",
-    "affiliate": true,
-    "id": "product-066"
+    "affiliate": true
   }
 ]
