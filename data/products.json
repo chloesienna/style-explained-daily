@@ -561,11 +561,18 @@
     "affiliate": false
   },
   {
+    "id": "product-064",
     "name": "Burgundy cardigan",
     "store": "Amazon",
     "image": "/assets/burgundy-gold-button-knit-cardigan.png",
     "url": "https://amzn.to/48dt4fP",
-    "affiliate": true,
-    "id": "product-064"
+    "affiliate": true
+  },
+  {
+    "name": "Grey wide leg pants",
+    "store": "Amazon",
+    "image": "/assets/de78544bb00da7ea57a5c330962791fa4d859706.avif",
+    "url": "https://www2.hm.com/en_us/productpage.1090271048.html",
+    "affiliate": true
   }
 ]
