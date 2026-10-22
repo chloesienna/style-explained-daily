@@ -1,5 +1,118 @@
 [
   {
+    "title": "One Gap Cardigan, Five Looks",
+    "slug": "one-gap-cardigan-five-looks",
+    "subtitle": "Five polished ways to style one dark, cool-toned Gap cardigan.",
+    "category": "five",
+    "image": "/assets/dark-chocolate-button-up-cardigan.png",
+    "description": "Five ways to style the same cool, dark espresso Gap cardigan: polished blue denim with burgundy accessories, an ivory satin skirt, modern workwear, a dark denim midi with knee-high boots, and black evening tailoring with a burgundy clutch. AI-generated looks are styling inspiration; some linked items are similar rather than exact.",
+    "published": false,
+    "products": [
+      {
+        "productId": "product-033",
+        "name": "Gap Terra Brown Cardigan",
+        "note": "Featured original cardigan"
+      }
+    ],
+    "outfits": [
+      {
+        "name": "Polished denim & burgundy",
+        "description": "Open Gap cardigan, ivory fitted tee, straight-leg blue jeans, dark brown belt, burgundy pumps and a burgundy structured top-handle bag.",
+        "image": "/assets/dark-chocolate-button-up-cardigan.png",
+        "products": [
+          {
+            "productId": "product-068",
+            "name": "Levi's straight-leg jeans"
+          },
+          {
+            "productId": "product-035",
+            "name": "Dark brown belt"
+          },
+          {
+            "productId": "product-014",
+            "name": "Burgundy pointed heels"
+          }
+        ]
+      },
+      {
+        "name": "Ivory satin",
+        "description": "Buttoned Gap cardigan, fluid ivory satin midi skirt, burgundy heels and a burgundy crescent shoulder bag.",
+        "image": "/assets/dark-chocolate-button-up-cardigan.png",
+        "products": [
+          {
+            "productId": "product-018",
+            "name": "Ivory satin skirt"
+          },
+          {
+            "productId": "product-014",
+            "name": "Burgundy heels"
+          },
+          {
+            "productId": "product-020",
+            "name": "Burgundy shoulder bag"
+          }
+        ]
+      },
+      {
+        "name": "Modern workwear",
+        "description": "Open Gap cardigan over a powder-blue shirt with charcoal tailored wide-leg trousers, dark brown belt, horsebit loafers and chocolate tote.",
+        "image": "/assets/dark-chocolate-button-up-cardigan.png",
+        "products": [
+          {
+            "productId": "product-001",
+            "name": "Powder-blue button-up shirt"
+          },
+          {
+            "productId": "product-071",
+            "name": "Charcoal trousers"
+          },
+          {
+            "productId": "product-035",
+            "name": "Dark brown belt"
+          },
+          {
+            "productId": "product-069",
+            "name": "Dark brown loafers"
+          },
+          {
+            "productId": "product-070",
+            "name": "Chocolate brown tote"
+          }
+        ]
+      },
+      {
+        "name": "Denim midi & knee-high boots",
+        "description": "Open Gap cardigan and ivory top with dark indigo slit-front denim midi skirt, dark brown belt, knee-high brown leather boots and burgundy structured handbag.",
+        "image": "/assets/dark-chocolate-button-up-cardigan.png",
+        "products": [
+          {
+            "productId": "product-035",
+            "name": "Dark brown belt"
+          },
+          {
+            "productId": "product-019",
+            "name": "Knee-high brown leather boots"
+          }
+        ]
+      },
+      {
+        "name": "Elevated evening",
+        "description": "Open Gap cardigan over black satin cowl-neck camisole, wide-leg black trousers, black belt, burgundy pointed heels and softly gathered burgundy clutch.",
+        "image": "/assets/dark-chocolate-button-up-cardigan.png",
+        "products": [
+          {
+            "productId": "product-021",
+            "name": "Black wide-leg trousers"
+          },
+          {
+            "productId": "product-014",
+            "name": "Burgundy pointed heels"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "The Burgundy Edit",
     "slug": "the-burgundy-edit",
     "subtitle": "Rich burgundy, soft grey and ivory — timeless style.",
@@ -213,119 +326,6 @@
           },
           {
             "productId": "product-047"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "One Gap Cardigan, Five Looks",
-    "slug": "one-gap-cardigan-five-looks",
-    "subtitle": "Five polished ways to style one dark, cool-toned Gap cardigan.",
-    "category": "five",
-    "image": "/assets/dark-chocolate-button-up-cardigan.png",
-    "description": "The cool, almost black-brown Gap cardigan styled five ways: jeans and burgundy accents, ivory satin, modern tailoring, a denim midi skirt, and an elegant black evening outfit. Outfit photographs are not yet uploaded. Product images and shopping links are illustrative; shop similar unless explicitly identified as the featured original.",
-    "published": false,
-    "products": [
-      {
-        "productId": "product-033",
-        "name": "Gap Terra Brown Cardigan",
-        "note": "Featured original cardigan"
-      }
-    ],
-    "outfits": [
-      {
-        "name": "Polished denim & burgundy",
-        "description": "Open Gap cardigan, ivory fitted tee, straight-leg blue jeans, dark brown belt, burgundy pumps and a burgundy structured top-handle bag.",
-        "image": "/assets/dark-chocolate-button-up-cardigan.png",
-        "products": [
-          {
-            "productId": "product-068",
-            "name": "Levi's jeans"
-          },
-          {
-            "productId": "product-035",
-            "name": "Dark brown belt"
-          },
-          {
-            "productId": "product-014",
-            "name": "Burgundy pumps"
-          }
-        ]
-      },
-      {
-        "name": "Ivory satin",
-        "description": "Buttoned Gap cardigan, fluid ivory satin midi skirt, burgundy heels and a burgundy crescent shoulder bag.",
-        "image": "/assets/dark-chocolate-button-up-cardigan.png",
-        "products": [
-          {
-            "productId": "product-018",
-            "name": "Ivory satin midi skirt"
-          },
-          {
-            "productId": "product-014",
-            "name": "Burgundy heels"
-          },
-          {
-            "productId": "product-020",
-            "name": "Burgundy shoulder bag"
-          }
-        ]
-      },
-      {
-        "name": "Modern workwear",
-        "description": "Open Gap cardigan over a powder-blue shirt with charcoal tailored wide-leg trousers, dark brown belt, horsebit loafers and chocolate tote.",
-        "image": "/assets/dark-chocolate-button-up-cardigan.png",
-        "products": [
-          {
-            "productId": "product-001",
-            "name": "Powder-blue shirt"
-          },
-          {
-            "productId": "product-071",
-            "name": "Charcoal wide-leg trousers"
-          },
-          {
-            "productId": "product-069",
-            "name": "Brown horsebit loafers"
-          },
-          {
-            "productId": "product-070",
-            "name": "Brown tote"
-          },
-          {
-            "productId": "product-035",
-            "name": "Brown belt"
-          }
-        ]
-      },
-      {
-        "name": "Denim midi & knee-high boots",
-        "description": "Open Gap cardigan and ivory top with dark indigo slit-front denim midi skirt, dark brown belt, knee-high brown leather boots and burgundy structured handbag.",
-        "image": "/assets/dark-chocolate-button-up-cardigan.png",
-        "products": [
-          {
-            "productId": "product-019",
-            "name": "Brown knee-high boots"
-          },
-          {
-            "productId": "product-035",
-            "name": "Brown belt"
-          }
-        ]
-      },
-      {
-        "name": "Elevated evening",
-        "description": "Open Gap cardigan over black satin cowl-neck camisole, wide-leg black trousers, black belt, burgundy pointed heels and softly gathered burgundy clutch.",
-        "image": "/assets/dark-chocolate-button-up-cardigan.png",
-        "products": [
-          {
-            "productId": "product-021",
-            "name": "Black wide-leg trousers"
-          },
-          {
-            "productId": "product-014",
-            "name": "Burgundy heels"
           }
         ]
       }
