@@ -677,6 +677,7 @@
     "store": "Amazon",
     "image": "/assets/dusty-rose-satin-blouse.png",
     "url": "https://link.amazon/B061gbQcl",
-    "affiliate": true
+    "affiliate": true,
+    "id": "product-078"
   }
 ]
