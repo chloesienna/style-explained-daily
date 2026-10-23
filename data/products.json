@@ -681,10 +681,16 @@
     "affiliate": true
   },
   {
+    "id": "product-079",
     "name": "Black shoulder bag",
     "store": "Amazon",
     "url": "https://link.amazon/B0ba4XZhm",
-    "affiliate": true,
-    "id": "product-079"
+    "affiliate": true
+  },
+  {
+    "name": "Uniqlo wool jumper",
+    "store": "Uniqlo",
+    "image": "/assets/espresso-knit-sweater-on-transparent-background-1.png",
+    "affiliate": false
   }
 ]
