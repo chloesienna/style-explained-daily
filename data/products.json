@@ -673,11 +673,17 @@
     "affiliate": true
   },
   {
+    "id": "product-078",
     "name": "Dusty rose blouse",
     "store": "Amazon",
     "image": "/assets/dusty-rose-satin-blouse.png",
     "url": "https://link.amazon/B061gbQcl",
-    "affiliate": true,
-    "id": "product-078"
+    "affiliate": true
+  },
+  {
+    "name": "Black shoulder bag",
+    "store": "Amazon",
+    "url": "https://link.amazon/B0ba4XZhm",
+    "affiliate": true
   }
 ]
