@@ -657,11 +657,18 @@
     "affiliate": true
   },
   {
+    "id": "product-076",
     "name": "Dark wash jeans",
     "store": "Amazon",
     "image": "/assets/high-waisted-indigo-straight-leg-jeans.png",
     "url": "https://link.amazon/B03ZvuiID",
-    "affiliate": false,
-    "id": "product-076"
+    "affiliate": true
+  },
+  {
+    "name": "Fine knit",
+    "store": "Amazon",
+    "image": "/assets/ivory-knit-crewneck-sweater-cutout.png",
+    "url": "https://link.amazon/B0fV0KCgM",
+    "affiliate": true
   }
 ]
