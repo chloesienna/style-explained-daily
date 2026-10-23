@@ -699,5 +699,11 @@
   {
     "id": "product-081",
     "affiliate": false
+  },
+  {
+    "name": "Black ankle boots",
+    "store": "Amazon",
+    "url": "https://link.amazon/B0cUIPg2s",
+    "affiliate": true
   }
 ]
