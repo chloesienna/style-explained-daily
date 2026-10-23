@@ -4,7 +4,7 @@
     "slug": "one-pair-of-jeans-five-looks",
     "subtitle": "One pair of blue straight-leg jeans, five polished outfits.",
     "category": "five",
-    "image": "/assets/one-jeans-five-looks-1.png",
+    "image": "/assets/elegant-denim-styling-in-a-cozy-boutique-bedroom.png",
     "description": "Five elegant ways to style one pair of medium-blue straight-leg jeans, from ivory satin and chocolate knit to soft ivory, navy tailoring and dusty pink. AI-generated outfit imagery is styling inspiration; linked products may be similar rather than exact matches.",
     "published": true,
     "products": [
@@ -18,7 +18,7 @@
       {
         "name": "Ivory satin & black",
         "description": "Ivory satin sleeveless mock-neck top, medium-blue straight-leg jeans, black leather belt, pointed black pumps and black clutch.",
-        "image": "/assets/one-jeans-five-looks-1.png",
+        "image": "/assets/elegant-closet-fashion-portrait-12.png",
         "products": [
           {
             "productId": "product-083"
@@ -37,7 +37,7 @@
       {
         "name": "Chocolate knit & ankle boots",
         "description": "Dark chocolate crew-neck knit, medium-blue straight-leg jeans, black leather belt, black ankle boots and structured black shoulder bag.",
-        "image": "/assets/one-jeans-five-looks-2.png",
+        "image": "/assets/elegant-neutral-bedroom-fashion-portrait.png",
         "products": [
           {
             "productId": "product-080"
@@ -56,7 +56,7 @@
       {
         "name": "Soft ivory & slingbacks",
         "description": "Soft ivory crew-neck sweater, medium-blue straight-leg jeans, dark brown belt, black slingback heels and structured black top-handle bag.",
-        "image": "/assets/one-jeans-five-looks-3.png",
+        "image": "/assets/ivory-sweater-dressing-room-portrait.png",
         "products": [
           {
             "productId": "product-077"
@@ -75,7 +75,7 @@
       {
         "name": "Navy blazer & burgundy accents",
         "description": "Navy tailored blazer over a white tee, medium-blue straight-leg jeans, brown belt, burgundy horsebit loafers and structured burgundy handbag.",
-        "image": "/assets/one-jeans-five-looks-4.png",
+        "image": "/assets/chic-navy-blazer-and-burgundy-accents.png",
         "products": [
           {
             "productId": "product-058"
@@ -94,7 +94,7 @@
       {
         "name": "Dusty pink satin",
         "description": "Dusty-pink satin button-up shirt, medium-blue straight-leg jeans, dark brown belt, chocolate-brown slingback heels and structured brown handbag.",
-        "image": "/assets/one-jeans-five-looks-5.png",
+        "image": "/assets/dusty-pink-blouse-wardrobe-portrait.png",
         "products": [
           {
             "productId": "product-078"
