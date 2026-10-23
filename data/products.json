@@ -709,10 +709,10 @@
     "affiliate": true
   },
   {
-    "name": "Satin mock necj",
+    "id": "product-083",
+    "name": "Satin mock neck",
     "store": "Amazon",
     "url": "https://link.amazon/B0fndXyDo",
-    "affiliate": true,
-    "id": "product-083"
+    "affiliate": true
   }
 ]
