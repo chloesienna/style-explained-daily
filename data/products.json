@@ -655,5 +655,12 @@
     "image": "/assets/luxury-black-leather-belt-with-gold-buckle.png",
     "url": "https://link.amazon/B0cOvCnCv",
     "affiliate": true
+  },
+  {
+    "name": "Dark wash jeans",
+    "store": "Amazon",
+    "image": "/assets/high-waisted-indigo-straight-leg-jeans.png",
+    "url": "https://link.amazon/B03ZvuiID",
+    "affiliate": false
   }
 ]
