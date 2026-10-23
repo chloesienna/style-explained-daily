@@ -717,10 +717,11 @@
     "affiliate": true
   },
   {
+    "id": "product-084",
     "name": "Black pumps",
     "store": "Amazon",
+    "image": "/assets/elegant-black-stiletto-pumps.png",
     "url": "https://link.amazon/B0eFxMDcU",
-    "affiliate": true,
-    "id": "product-084"
+    "affiliate": true
   }
 ]
