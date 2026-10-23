@@ -665,11 +665,18 @@
     "affiliate": true
   },
   {
+    "id": "product-077",
     "name": "Fine knit",
     "store": "Amazon",
     "image": "/assets/ivory-knit-crewneck-sweater-cutout.png",
     "url": "https://link.amazon/B0fV0KCgM",
-    "affiliate": true,
-    "id": "product-077"
+    "affiliate": true
+  },
+  {
+    "name": "Dusty rose blouse",
+    "store": "Amazon",
+    "image": "/assets/dusty-rose-satin-blouse.png",
+    "url": "https://link.amazon/B061gbQcl",
+    "affiliate": true
   }
 ]
