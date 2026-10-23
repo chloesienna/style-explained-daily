@@ -701,10 +701,11 @@
     "affiliate": false
   },
   {
+    "id": "product-082",
     "name": "Black ankle boots",
     "store": "Amazon",
+    "image": "/assets/black-leather-ankle-boot-pair.png",
     "url": "https://link.amazon/B0cUIPg2s",
-    "affiliate": true,
-    "id": "product-082"
+    "affiliate": true
   }
 ]
