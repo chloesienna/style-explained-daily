@@ -661,6 +661,7 @@
     "store": "Amazon",
     "image": "/assets/high-waisted-indigo-straight-leg-jeans.png",
     "url": "https://link.amazon/B03ZvuiID",
-    "affiliate": false
+    "affiliate": false,
+    "id": "product-076"
   }
 ]
