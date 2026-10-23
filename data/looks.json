@@ -1,5 +1,118 @@
 [
   {
+    "title": "One Pair of Jeans, Five Looks",
+    "slug": "one-pair-of-jeans-five-looks",
+    "subtitle": "One pair of blue straight-leg jeans, five polished outfits.",
+    "category": "five",
+    "image": "/assets/one-jeans-five-looks-1.png",
+    "description": "Five elegant ways to style one pair of medium-blue straight-leg jeans, from ivory satin and chocolate knit to soft ivory, navy tailoring and dusty pink. AI-generated outfit imagery is styling inspiration; linked products may be similar rather than exact matches.",
+    "published": true,
+    "products": [
+      {
+        "productId": "product-068",
+        "name": "Levi's straight-leg blue jeans",
+        "note": "Featured similar jeans"
+      }
+    ],
+    "outfits": [
+      {
+        "name": "Ivory satin & black",
+        "description": "Ivory satin sleeveless mock-neck top, medium-blue straight-leg jeans, black leather belt, pointed black pumps and black clutch.",
+        "image": "/assets/one-jeans-five-looks-1.png",
+        "products": [
+          {
+            "productId": "product-083"
+          },
+          {
+            "productId": "product-075"
+          },
+          {
+            "productId": "product-084"
+          },
+          {
+            "productId": "product-043"
+          }
+        ]
+      },
+      {
+        "name": "Chocolate knit & ankle boots",
+        "description": "Dark chocolate crew-neck knit, medium-blue straight-leg jeans, black leather belt, black ankle boots and structured black shoulder bag.",
+        "image": "/assets/one-jeans-five-looks-2.png",
+        "products": [
+          {
+            "productId": "product-080"
+          },
+          {
+            "productId": "product-075"
+          },
+          {
+            "productId": "product-082"
+          },
+          {
+            "productId": "product-079"
+          }
+        ]
+      },
+      {
+        "name": "Soft ivory & slingbacks",
+        "description": "Soft ivory crew-neck sweater, medium-blue straight-leg jeans, dark brown belt, black slingback heels and structured black top-handle bag.",
+        "image": "/assets/one-jeans-five-looks-3.png",
+        "products": [
+          {
+            "productId": "product-077"
+          },
+          {
+            "productId": "product-035"
+          },
+          {
+            "productId": "product-030"
+          },
+          {
+            "productId": "product-038"
+          }
+        ]
+      },
+      {
+        "name": "Navy blazer & burgundy accents",
+        "description": "Navy tailored blazer over a white tee, medium-blue straight-leg jeans, brown belt, burgundy horsebit loafers and structured burgundy handbag.",
+        "image": "/assets/one-jeans-five-looks-4.png",
+        "products": [
+          {
+            "productId": "product-058"
+          },
+          {
+            "productId": "product-035"
+          },
+          {
+            "productId": "product-069"
+          },
+          {
+            "productId": "product-072"
+          }
+        ]
+      },
+      {
+        "name": "Dusty pink satin",
+        "description": "Dusty-pink satin button-up shirt, medium-blue straight-leg jeans, dark brown belt, chocolate-brown slingback heels and structured brown handbag.",
+        "image": "/assets/one-jeans-five-looks-5.png",
+        "products": [
+          {
+            "productId": "product-078"
+          },
+          {
+            "productId": "product-035"
+          },
+          {
+            "productId": "product-014"
+          },
+          {
+            "productId": "product-042"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "One Gap Cardigan, Five Looks",
     "slug": "one-gap-cardigan-five-looks",
     "subtitle": "Five polished ways to style one dark, cool-toned Gap cardigan.",
