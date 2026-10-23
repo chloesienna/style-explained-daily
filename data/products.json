@@ -692,9 +692,11 @@
     "name": "Uniqlo wool jumper",
     "store": "Uniqlo",
     "image": "/assets/espresso-knit-sweater-on-transparent-background-1.png",
-    "affiliate": false
+    "affiliate": false,
+    "id": "product-080"
   },
   {
-    "affiliate": false
+    "affiliate": false,
+    "id": "product-081"
   }
 ]
