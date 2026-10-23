@@ -725,10 +725,11 @@
     "affiliate": true
   },
   {
+    "id": "product-085",
     "name": "Brown slingbacks",
     "store": "Amazon",
+    "image": "/assets/dark-brown-slingback-kitten-heel-pumps.png",
     "url": "https://link.amazon/B0gXngKUI",
-    "affiliate": true,
-    "id": "product-085"
+    "affiliate": true
   }
 ]
